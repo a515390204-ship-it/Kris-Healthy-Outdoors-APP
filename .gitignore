@@ -1,0 +1,21 @@
+# Runtime and caches
+.npm-cache/
+.deploytmp/
+deploytmp/
+static-server.out.log
+static-server.err.log
+
+# Local tooling
+node-v22.15.1-win-x64/
+node-portable.zip
+portable-git/
+portable-git.zip
+
+# Build and release artifacts
+public-release/
+public-release.zip
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini

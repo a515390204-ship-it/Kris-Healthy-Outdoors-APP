@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>知识库管理列表 | 松弛实验室</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="kb-manage.css">
+</head>
+<body>
+  <div class="manage-shell">
+    <header class="manage-hero">
+      <div class="hero-top">
+        <a class="back-link" href="kb.html">返回知识库底层</a>
+        <a class="back-link" href="xhs-admin.html">返回导入后台</a>
+      </div>
+      <p class="eyebrow">知识库管理</p>
+      <h1>集中查看、筛选和复核内容条目</h1>
+      <p class="hero-text">
+        这里可以做集中筛选、状态流转和 JSON 导入导出。如果本地 API 已启动，审核动作会直接写回项目里的
+        `data/knowledge-base.json`；未启动时则写入浏览器本地知识库。
+      </p>
+      <div class="hero-top">
+        <span id="backend-status" class="status-chip">检查本地后端中</span>
+      </div>
+    </header>
+
+    <main class="manage-grid">
+      <section class="panel filter-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">筛选器</p>
+            <h2>快速定位内容</h2>
+          </div>
+          <span id="result-count" class="status-chip">0 条</span>
+        </div>
+
+        <div class="filters">
+          <label>
+            搜索
+            <input id="search-input" type="search" placeholder="搜索标题、标签、城市、来源标题">
+          </label>
+          <div class="four-col">
+            <label>
+              模块
+              <select id="module-filter">
+                <option value="">全部</option>
+                <option value="outdoor">户外运动</option>
+                <option value="nutrition">健康饮食</option>
+                <option value="supplements">保健品知识</option>
+                <option value="pets">宠物饲养</option>
+                <option value="knowledge-anxiety">知识焦虑</option>
+                <option value="social-anxiety">社交焦虑</option>
+              </select>
+            </label>
+            <label>
+              来源
+              <select id="source-filter">
+                <option value="">全部</option>
+                <option value="xiaohongshu">小红书</option>
+                <option value="official">官方来源</option>
+                <option value="editorial">编辑整理</option>
+              </select>
+            </label>
+            <label>
+              可信度
+              <select id="confidence-filter">
+                <option value="">全部</option>
+                <option value="high">高</option>
+                <option value="medium">中</option>
+                <option value="low">低</option>
+              </select>
+            </label>
+            <label>
+              审核状态
+              <select id="workflow-filter">
+                <option value="">全部</option>
+                <option value="draft">待审核</option>
+                <option value="approved">审核通过</option>
+                <option value="needs_revision">待补充</option>
+                <option value="rejected">已驳回</option>
+              </select>
+            </label>
+          </div>
+        </div>
+      </section>
+
+      <section class="panel action-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">文件操作</p>
+            <h2>导入 / 导出 JSON</h2>
+          </div>
+        </div>
+        <div class="action-row">
+          <button id="export-json" class="primary-button" type="button">导出当前知识库 JSON</button>
+          <label class="file-picker">
+            导入 JSON 文件
+            <input id="import-json" type="file" accept=".json,application/json">
+          </label>
+        </div>
+        <p id="file-status" class="helper-text">当前展示的是知识库中的最新内容。</p>
+      </section>
+
+      <section class="panel list-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">条目列表</p>
+            <h2>知识库内容</h2>
+          </div>
+        </div>
+        <div id="entry-list" class="entry-list"></div>
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="kb-manage.js"></script>
+</body>
+</html>

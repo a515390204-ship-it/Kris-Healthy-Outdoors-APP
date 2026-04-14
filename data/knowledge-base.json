@@ -1,0 +1,87 @@
+{
+  "updatedAt": "2026-04-12T00:00:00.000Z",
+  "entries": [
+    {
+      "id": "outdoor-jiuxi-001",
+      "module": "outdoor",
+      "title": "九溪到龙井的一日放松线",
+      "summary": "适合春天半天到一天出发，兼具溪流、茶园和山脊线体验。",
+      "tags": ["杭州", "徒步", "九溪", "龙井", "春季"],
+      "season": "spring",
+      "city": "杭州",
+      "source": {
+        "type": "official",
+        "title": "九溪-五云山-十里琅珰公开路线整理",
+        "url": "https://mdaily.hangzhou.com.cn/dskb/2024/04/11/article_detail_2_20240411A036.html",
+        "author": null,
+        "publishedAt": "2024-04-11"
+      },
+      "route": {
+        "ascent": "九溪公交站",
+        "passBy": ["五云山", "真际寺", "十里琅珰", "龙井村"],
+        "descent": "龙井村",
+        "duration": "半天到一天",
+        "difficulty": "轻中度"
+      },
+      "media": {
+        "coverImage": "assets/outdoor/jiuxi.jpg",
+        "gallery": []
+      },
+      "notes": {
+        "experience": "官方路线事实清晰，适合作为站内长线徒步攻略底稿。"
+      },
+      "quality": {
+        "verified": true,
+        "confidence": "high"
+      },
+      "workflow": {
+        "status": "approved",
+        "reviewer": "编辑部",
+        "reviewNote": "可作为官方参考路线保留。",
+        "importedFrom": "import",
+        "updatedAt": "2026-04-12T00:00:00.000Z"
+      }
+    },
+    {
+      "id": "outdoor-xhs-001",
+      "module": "outdoor",
+      "title": "用户视角：春天去径山更适合慢走和发呆",
+      "summary": "用于补充真实体验、拍照点、出发节奏和踩坑提醒，不直接作为唯一事实来源。",
+      "tags": ["杭州", "径山", "春季", "经验帖"],
+      "season": "spring",
+      "city": "杭州",
+      "source": {
+        "type": "xiaohongshu",
+        "title": "示例：小红书经验帖条目",
+        "url": "https://www.xiaohongshu.com/",
+        "author": null,
+        "publishedAt": null
+      },
+      "route": {
+        "ascent": null,
+        "passBy": [],
+        "descent": null,
+        "duration": null,
+        "difficulty": null
+      },
+      "media": {
+        "coverImage": null,
+        "gallery": []
+      },
+      "notes": {
+        "experience": "适合作为体验补充，但还需要路线事实校验。"
+      },
+      "quality": {
+        "verified": false,
+        "confidence": "medium"
+      },
+      "workflow": {
+        "status": "needs_revision",
+        "reviewer": "编辑部",
+        "reviewNote": "需要补充更明确的上山口、下山方式和时间建议。",
+        "importedFrom": "manual-xiaohongshu",
+        "updatedAt": "2026-04-12T00:00:00.000Z"
+      }
+    }
+  ]
+}

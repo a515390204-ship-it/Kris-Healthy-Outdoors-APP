@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>小红书内容导入后台原型 | 松弛实验室</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="xhs-admin.css">
+</head>
+<body>
+  <div class="admin-shell">
+    <header class="admin-hero">
+      <div class="hero-top">
+        <a class="back-link" href="kb.html">返回知识库接入层</a>
+        <span id="backend-status" class="status-chip">检查本地后端中</span>
+      </div>
+      <p class="eyebrow">小红书内容导入</p>
+      <h1>把经验帖变成可入库的知识条目</h1>
+      <p class="hero-text">
+        这版导入后台支持：手工录入、图片上传、多图字段、实时 JSON 预览，以及保存到本地知识库。
+        如果本地 API 已启动，页面会优先把内容写到项目中的 JSON 文件；未启动时则回退到浏览器本地存储。
+      </p>
+      <div class="hero-top">
+        <a class="back-link" href="kb-manage.html">进入知识库管理列表</a>
+        <span id="save-status" class="status-chip">尚未保存</span>
+      </div>
+    </header>
+
+    <main class="admin-grid">
+      <section class="panel form-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">录入区</p>
+            <h2>导入一条小红书内容</h2>
+          </div>
+          <button id="fill-demo" type="button" class="ghost-button">填充示例</button>
+        </div>
+
+        <form id="entry-form" class="entry-form">
+          <label>
+            原始链接
+            <input id="source-url" name="sourceUrl" type="url" placeholder="https://www.xiaohongshu.com/...">
+          </label>
+
+          <div class="two-col">
+            <label>
+              来源标题
+              <input id="source-title" name="sourceTitle" type="text" placeholder="例：杭州九溪徒步超适合春天">
+            </label>
+            <label>
+              作者昵称
+              <input id="source-author" name="sourceAuthor" type="text" placeholder="例：周末出走计划">
+            </label>
+          </div>
+
+          <div class="two-col">
+            <label>
+              所属模块
+              <select id="module" name="module">
+                <option value="outdoor">户外运动</option>
+                <option value="nutrition">健康饮食</option>
+                <option value="supplements">保健品知识</option>
+                <option value="pets">宠物饲养</option>
+                <option value="knowledge-anxiety">知识焦虑</option>
+                <option value="social-anxiety">社交焦虑</option>
+              </select>
+            </label>
+            <label>
+              城市
+              <input id="city" name="city" type="text" value="杭州">
+            </label>
+          </div>
+
+          <div class="two-col">
+            <label>
+              季节
+              <select id="season" name="season">
+                <option value="spring">春季</option>
+                <option value="summer">夏季</option>
+                <option value="autumn">秋季</option>
+                <option value="winter">冬季</option>
+              </select>
+            </label>
+            <label>
+              可信度
+              <select id="confidence" name="confidence">
+                <option value="medium">中</option>
+                <option value="low">低</option>
+                <option value="high">高</option>
+              </select>
+            </label>
+          </div>
+
+          <label>
+            站内标题
+            <input id="title" name="title" type="text" placeholder="把这条内容整理成站内更好读的标题">
+          </label>
+
+          <label>
+            简短摘要
+            <textarea id="summary" name="summary" rows="3" placeholder="提炼出对用户最有价值的一句话"></textarea>
+          </label>
+
+          <label>
+            标签
+            <input id="tags" name="tags" type="text" placeholder="用逗号分隔，如：杭州,九溪,春季,徒步,茶园">
+          </label>
+
+          <label>
+            用户体感 / 经验补充
+            <textarea id="experience" name="experience" rows="4" placeholder="记录这条内容里有价值的体感信息，比如拍照点、什么时候人少、哪一段最累"></textarea>
+          </label>
+
+          <div class="route-box">
+            <div class="panel-head compact">
+              <div>
+                <p class="eyebrow">路线结构化</p>
+                <h3>徒步攻略字段</h3>
+              </div>
+            </div>
+
+            <div class="two-col">
+              <label>
+                从哪里上山
+                <input id="ascent" name="ascent" type="text" placeholder="例：九溪公交站">
+              </label>
+              <label>
+                怎么下山
+                <input id="descent" name="descent" type="text" placeholder="例：龙井村">
+              </label>
+            </div>
+
+            <div class="two-col">
+              <label>
+                建议时长
+                <input id="duration" name="duration" type="text" placeholder="例：半天到一天">
+              </label>
+              <label>
+                难度
+                <input id="difficulty" name="difficulty" type="text" placeholder="例：轻中度">
+              </label>
+            </div>
+
+            <label>
+              路线经过点
+              <input id="pass-by" name="passBy" type="text" placeholder="用逗号分隔，如：五云山,真际寺,十里琅珰,龙井村">
+            </label>
+          </div>
+
+          <div class="media-box">
+            <div class="panel-head compact">
+              <div>
+                <p class="eyebrow">图片字段</p>
+                <h3>封面图与多图</h3>
+              </div>
+            </div>
+
+            <div class="two-col">
+              <label>
+                封面图 URL
+                <input id="cover-image" name="coverImage" type="url" placeholder="可填外链或本地数据图">
+              </label>
+              <label>
+                上传封面图
+                <input id="cover-upload" type="file" accept="image/*">
+              </label>
+            </div>
+
+            <label>
+              相册图 URL 列表
+              <textarea id="gallery-urls" rows="3" placeholder="每行一张图，也可以粘贴多个图床地址"></textarea>
+            </label>
+
+            <label>
+              上传多张图片
+              <input id="gallery-upload" type="file" accept="image/*" multiple>
+            </label>
+
+            <div id="gallery-preview" class="gallery-preview"></div>
+          </div>
+
+          <div class="actions">
+            <button type="button" id="save-draft" class="primary-button">加入导入队列</button>
+            <button type="button" id="save-file" class="ghost-button">导出当前知识库 JSON</button>
+            <button type="reset" id="reset-form" class="ghost-button">清空表单</button>
+          </div>
+        </form>
+      </section>
+
+      <section class="panel preview-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">标准化预览</p>
+            <h2>即将入库的知识条目</h2>
+          </div>
+        </div>
+        <pre id="json-preview" class="json-preview"></pre>
+      </section>
+
+      <section class="panel queue-panel">
+        <div class="panel-head">
+          <div>
+            <p class="eyebrow">导入队列</p>
+            <h2>待审核内容</h2>
+          </div>
+          <span id="queue-count" class="status-chip">0 条</span>
+        </div>
+        <div id="queue-list" class="queue-list"></div>
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="xhs-admin.js"></script>
+</body>
+</html>

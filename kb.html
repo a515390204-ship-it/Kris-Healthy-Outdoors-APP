@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>知识库接入层 Demo | 松弛实验室</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="kb.css">
+</head>
+<body>
+  <div class="kb-shell">
+    <header class="kb-hero">
+      <a class="back-link" href="index.html">返回首页</a>
+      <p class="eyebrow">知识库底层</p>
+      <h1>多信息源接入层</h1>
+      <p class="hero-text">
+        这版先把知识库的底层结构搭起来，让不同来源的内容都能进入同一套标准化数据模型。
+        小红书已作为“信息源类型”接入，但当前建议走人工导入或半自动导入，避免依赖不稳定或不合规的抓取链路。
+      </p>
+      <a class="back-link" href="xhs-admin.html">进入小红书导入后台原型</a>
+      <a class="back-link" href="kb-manage.html">进入知识库管理列表</a>
+    </header>
+
+    <main class="kb-grid">
+      <section class="panel">
+        <p class="eyebrow">当前状态</p>
+        <h2>已接入的数据源类型</h2>
+        <div id="source-list" class="source-list"></div>
+      </section>
+
+      <section class="panel">
+        <p class="eyebrow">标准模型</p>
+        <h2>统一内容结构</h2>
+        <pre id="schema-view" class="code-block"></pre>
+      </section>
+
+      <section class="panel wide">
+        <p class="eyebrow">内容预览</p>
+        <h2>规范化后的知识条目</h2>
+        <div id="entry-list" class="entry-list"></div>
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="kb.js"></script>
+</body>
+</html>

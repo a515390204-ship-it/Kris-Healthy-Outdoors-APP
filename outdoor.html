@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>户外运动模块 | 松弛实验室</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="outdoor.css">
+</head>
+<body>
+  <div class="outdoor-shell">
+    <header class="outdoor-hero">
+      <nav class="outdoor-nav">
+        <a class="back-link" href="index.html">返回首页</a>
+        <span class="nav-label">户外运动模块 Demo</span>
+      </nav>
+
+      <div class="hero-layout">
+        <section class="hero-copy">
+          <p class="eyebrow">杭州周边春季徒步</p>
+          <h1>别让周末只剩下补觉和刷手机。</h1>
+          <p class="hero-text">
+            这版模块聚焦一个非常具体的问题：想去户外，但不知道杭州周边哪里适合春天去，
+            也不知道到了以后该怎么走。我们把搜索、推荐和徒步攻略整合到一个页面里，
+            帮用户更快从“想出去”走到“真的出发”。
+          </p>
+
+          <div class="search-panel">
+            <label class="search-label" for="trail-search">搜索你此刻的模糊需求</label>
+            <div class="search-row">
+              <input id="trail-search" type="search" placeholder="比如：新手、茶园、溪流、周末半天、寺庙、拍照好看">
+              <button id="clear-search" type="button">清空</button>
+            </div>
+            <div class="quick-tags" id="quick-tags"></div>
+          </div>
+        </section>
+
+        <aside class="hero-aside">
+          <div class="mood-card">
+            <span>推荐逻辑</span>
+            <strong>上方搜索识别模糊需求，下方推荐给出当季热门路线。</strong>
+            <p>用户点击卡片后，可以直接看到从哪里上山、经过哪些点位、如何下山和注意事项。</p>
+          </div>
+        </aside>
+      </div>
+    </header>
+
+    <main class="content-wrap">
+      <section class="list-section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">当季推荐</p>
+            <h2>春天适合走的杭州徒步线</h2>
+          </div>
+          <p id="result-summary" class="result-summary"></p>
+        </div>
+
+        <div id="trail-list" class="trail-grid"></div>
+      </section>
+
+      <section class="detail-section">
+        <div class="section-head">
+          <div>
+            <p class="eyebrow">详细攻略</p>
+            <h2 id="detail-title">点击一个景点查看完整路线</h2>
+          </div>
+          <p id="detail-subtitle" class="result-summary">先从推荐卡片里挑一个最适合你周末状态的目的地。</p>
+        </div>
+
+        <article id="detail-panel" class="detail-panel empty">
+          <div class="detail-empty">
+            <p>选择上方任一推荐景点后，这里会展示：</p>
+            <ul>
+              <li>从哪里上山</li>
+              <li>途中会经过哪些地点</li>
+              <li>建议怎么下山</li>
+              <li>行前注意事项</li>
+            </ul>
+          </div>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <script src="outdoor.js"></script>
+</body>
+</html>
