@@ -1,0 +1,16 @@
+{
+  "importedAt": "2026-06-09T16:10:21Z",
+  "sourceQuery": "???? ?? ?? ?? citywalk",
+  "city": "杭州",
+  "topic": "杭州综合旅行：美食、美景、酒店、citywalk",
+  "entryCount": 7,
+  "sources": {
+    "candidate": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-import-candidates-bcc9c398-20260610-000602-fixed.json",
+    "raw": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\raw\\xhs-raw-bcc9c398-20260610-000602.json"
+  },
+  "targets": [
+    "raw/sources/xiaohongshu/2026-06-10-hangzhou-general-travel/xhs-import-candidates-bcc9c398-20260610-000602-fixed.json",
+    "raw/sources/xiaohongshu/2026-06-10-hangzhou-general-travel/xhs-raw-bcc9c398-20260610-000602.json"
+  ],
+  "status": "ingested_as_unverified_xhs_evidence"
+}

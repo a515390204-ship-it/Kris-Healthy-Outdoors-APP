@@ -1,0 +1,90 @@
+{
+  "updatedAt": "2026-06-10T14:35:50Z",
+  "type": "travel_city_xhs_batch",
+  "city": "海口",
+  "topic": "海口住宿 citystay：骑楼老街、西海岸、旅拍酒店",
+  "batch": "2026-06-10-haikou-hotels-citystay-v2",
+  "sources": [
+    "raw/sources/xiaohongshu/2026-06-10-haikou-hotels-citystay-v2/xhs-haikou-hotels-1-reviewed-20260610.json",
+    "raw/sources/xiaohongshu/2026-06-10-haikou-hotels-citystay-v2/xhs-raw-4211f62d-20260610-222831.json"
+  ],
+  "confidence": "draft",
+  "verified": false,
+  "entryCount": 2,
+  "categoryCounts": {
+    "attraction": 1,
+    "food": 2,
+    "hotel": 2,
+    "transport": 2,
+    "route": 2,
+    "intent": 2
+  },
+  "intentCounts": {
+    "photo": 2,
+    "food": 2,
+    "relax": 1,
+    "budget": 2
+  },
+  "entries": [
+    {
+      "id": "xhs-6a294f340000000022025040",
+      "title": "海口旅游攻略！附200+机票✈️",
+      "city": "海口",
+      "categories": [
+        "attraction",
+        "food",
+        "hotel",
+        "transport",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "relax",
+        "budget"
+      ],
+      "confidence": "low",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6a294f340000000022025040?xsec_token=ABZSphsQf7_2YKgnxKT7F9PkfDh51BbjvhG2WznvUtpAQ=",
+      "summary": "确定了，6月，就去海口！✈️机票才220元🙌 ————————————————— ☑怎么订机票便宜👇🏻👇🏻👇🏻 ✅第一步：在去哪儿app ✅第二步：首页搜索栏🔍【789528】 ✅第三步：领取大额去哪儿机票优惠券🎁↓ ✔️超多便宜机票的优惠券领到手软🥳 💰机票消费券200(云闪付） 💰国内机票燃油券20💰 💰国内酒店新客券60💰 🌈新客享更多优惠，还能叠加...",
+      "metrics": {
+        "likes": 0,
+        "collects": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "imageCount": 6,
+      "wikiSource": "wiki/sources/xiaohongshu/6a294f340000000022025040.md"
+    },
+    {
+      "id": "xhs-6a294255000000002201acaf",
+      "title": "海口旅拍｜住进朗居智能酒店，解锁椰城逛吃拍",
+      "city": "海口",
+      "categories": [
+        "food",
+        "hotel",
+        "transport",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "budget"
+      ],
+      "confidence": "low",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6a294255000000002201acaf?xsec_token=ABZSphsQf7_2YKgnxKT7F9PldO-EKnUlmh11Ze8bJkbLU=",
+      "summary": "来海口旅拍的小伙伴注意啦！选对住处真真是成功的一半✨这家朗居酒店简直就是为旅拍星人量身定制的💯 🏨酒店位置绝了！ 📍海口市龙华区国贸二横路5号 交通便利到哭，步行3分钟到友谊阳光城、上邦百汇城商圈🚶10分钟车程覆盖骑楼老街、万绿园等爆款打卡点！再也不用担心拍照跑断腿啦📸 🌟智能轻奢体验感拉满 全屋小度语音控制🤖电动窗帘马桶超智能 最爱他们家零压床垫🛏️高支...",
+      "metrics": {
+        "likes": 0,
+        "collects": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "imageCount": 9,
+      "wikiSource": "wiki/sources/xiaohongshu/6a294255000000002201acaf.md"
+    }
+  ]
+}

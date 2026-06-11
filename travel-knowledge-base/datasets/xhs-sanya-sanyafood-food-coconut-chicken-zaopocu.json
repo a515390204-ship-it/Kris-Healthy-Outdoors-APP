@@ -1,0 +1,200 @@
+{
+  "updatedAt": "2026-06-10T14:36:35Z",
+  "type": "travel_city_xhs_batch",
+  "city": "三亚",
+  "topic": "三亚美食 food：海鲜、椰子鸡、糟粕醋",
+  "batch": "2026-06-10-sanya-food-seafood",
+  "sources": [
+    "raw/sources/xiaohongshu/2026-06-10-sanya-food-seafood/xhs-sanya-food-reviewed-20260610.json",
+    "raw/sources/xiaohongshu/2026-06-10-sanya-food-seafood/xhs-raw-dcb2bc53-20260610-222959.json"
+  ],
+  "confidence": "mixed",
+  "verified": false,
+  "entryCount": 6,
+  "categoryCounts": {
+    "attraction": 4,
+    "food": 6,
+    "hotel": 2,
+    "route": 3,
+    "intent": 4,
+    "transport": 1
+  },
+  "intentCounts": {
+    "photo": 4,
+    "food": 6,
+    "relax": 2,
+    "family": 2,
+    "couple": 2,
+    "avoid_pitfalls": 2,
+    "budget": 1,
+    "intense": 1
+  },
+  "entries": [
+    {
+      "id": "xhs-6a29371b000000001503d8d0",
+      "title": "三亚吃住一篇搞定｜酒店+美食全攻略💯",
+      "city": "三亚",
+      "categories": [
+        "attraction",
+        "food",
+        "hotel",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "relax",
+        "family",
+        "couple",
+        "avoid_pitfalls"
+      ],
+      "confidence": "low",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6a29371b000000001503d8d0?xsec_token=ABZSphsQf7_2YKgnxKT7F9PvghmZxWNmtQ4C3Tbssa4jw=",
+      "summary": "去三亚玩，选酒店和找吃的永远是头等大事🏝️ 整理了三大湾区热门酒店➕本地人常吃的美食，一篇帮你全搞定！ 看这一篇就够了，建议先收藏👇 🏨三亚酒店怎么选？ 🌊亚龙湾｜沙质最好，适合玩海 丽思卡尔顿：私人沙滩+管家服务 瑞吉度假酒店：网红透明泳池+游艇码头，情侣、网红打卡超合适 万豪：海景酒廊+亲子设施完善 美高梅：海上城堡+娱乐活动多 希尔顿：花园泳池+沙滩...",
+      "metrics": {
+        "likes": 2,
+        "collects": 4,
+        "comments": 0,
+        "shares": 0
+      },
+      "imageCount": 3,
+      "wikiSource": "wiki/sources/xiaohongshu/6a29371b000000001503d8d0.md"
+    },
+    {
+      "id": "xhs-6a2942ab000000001603cd99",
+      "title": "被闺蜜做的三亚攻略满意哭了😭超详细！||",
+      "city": "三亚",
+      "categories": [
+        "attraction",
+        "food",
+        "hotel",
+        "transport",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "relax",
+        "budget",
+        "family",
+        "couple",
+        "intense"
+      ],
+      "confidence": "low",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6a2942ab000000001603cd99?xsec_token=ABZSphsQf7_2YKgnxKT7F9PsmfnX9RRbat3JyeEzHA0Ps=",
+      "summary": "假期要去三亚旅游了，闺蜜就熬夜整理了这一份三亚5天4晚游玩攻略，真的超级详细，我的闺闺真的太棒了，这份攻略简直yyds，精华景点和景点预约、旅游建议、交通、住宿、特色美食都安排上了，现在分享给宝子们，有了这份攻略真的能躺玩三亚啦~ ✅️三亚旅游行程安排 🔶Day1：天涯海角——南山文化旅游区——椰梦长廊——第一市场夜市 🔶Day2：西岛——三亚千古情景区—...",
+      "metrics": {
+        "likes": 2,
+        "collects": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "imageCount": 7,
+      "wikiSource": "wiki/sources/xiaohongshu/6a2942ab000000001603cd99.md"
+    },
+    {
+      "id": "xhs-69a0f7d6000000000d009b65",
+      "title": "海南无意间拍到了神图",
+      "city": "三亚",
+      "categories": [
+        "attraction",
+        "food",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "avoid_pitfalls"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69a0f7d6000000000d009b65?xsec_token=ABUMXQ7BK2EDaGk-u9020phruJfJ8yXuO6yG-3BgtjCnQ=",
+      "summary": "#那是我一直向往的海边[话题]# #看看相机里的海[话题]# [萌萌哒R][萌萌哒R] 三亚无意间拍到了神图 三亚海边真的太美了，随手抓拍竟然拍到了神图 给大家列举几个三亚比较出片景点· ✅三亚湾：椰梦长廊、天涯小镇、西岛 ✅大东海：大东海海边、小东海、半山半岛、鹿回头 ✅亚龙湾：太阳湾、亚龙湾海边 ✅海棠湾：蜈支洲岛 三亚美食 ： ✅小吃：清补凉、糯叽叽...",
+      "metrics": {
+        "likes": 46000,
+        "collects": 5279,
+        "comments": 4604,
+        "shares": 3754
+      },
+      "imageCount": 8,
+      "wikiSource": "wiki/sources/xiaohongshu/69a0f7d6000000000d009b65.md"
+    },
+    {
+      "id": "xhs-69786b37000000001a02c698",
+      "title": "海南糟粕醋好好吃哦😋|小泡芙vlog",
+      "city": "三亚",
+      "categories": [
+        "food"
+      ],
+      "intentSignals": [
+        "food"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69786b37000000001a02c698?xsec_token=ABULAARb2PdLM50_1fcNl7bA9KIpgw3RjaZqw4VLmPhVw=",
+      "summary": "#野生vlogger成长计划[话题]# #带着父母去旅行[话题]# #三亚vlog[话题]#",
+      "metrics": {
+        "likes": 19000,
+        "collects": 879,
+        "comments": 585,
+        "shares": 557
+      },
+      "imageCount": 1,
+      "wikiSource": "wiki/sources/xiaohongshu/69786b37000000001a02c698.md"
+    },
+    {
+      "id": "xhs-69b555c1000000001a02bed8",
+      "title": "back to summer🐚🫧",
+      "city": "三亚",
+      "categories": [
+        "attraction",
+        "food",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69b555c1000000001a02bed8?xsec_token=ABqSv_NDA7PsiGUfCuWi15QnfvBObrzDXG9YW_KBvgT24=",
+      "summary": "昨晚做梦梦到自己在三亚吃87号海鲜餐厅 好好粗日思夜想 还有好多存图没来得及整理～ #海岛[话题]# #氛围感[话题]# #来拍照了[话题]# #穿搭[话题]# #plog[话题]#",
+      "metrics": {
+        "likes": 10000,
+        "collects": 2520,
+        "comments": 152,
+        "shares": 709
+      },
+      "imageCount": 17,
+      "wikiSource": "wiki/sources/xiaohongshu/69b555c1000000001a02bed8.md"
+    },
+    {
+      "id": "xhs-69a04949000000001b01f015",
+      "title": "JM's Vlog | Sanya🏝️",
+      "city": "三亚",
+      "categories": [
+        "food"
+      ],
+      "intentSignals": [
+        "food"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69a04949000000001b01f015?xsec_token=ABUMXQ7BK2EDaGk-u9020phsIBOUgrtFO-G4kQStJD78M=",
+      "summary": "Say“海”🌊 海边的时间 工作 休息 短暂的停歇 推荐大家一定要试一试糟粕醋火锅 还有斑斓蛋糕🧁 #JMVLOG[话题]# #三亚[话题]##明星不止AB面[话题]#",
+      "metrics": {
+        "likes": 6767,
+        "collects": 824,
+        "comments": 755,
+        "shares": 256
+      },
+      "imageCount": 1,
+      "wikiSource": "wiki/sources/xiaohongshu/69a04949000000001b01f015.md"
+    }
+  ]
+}

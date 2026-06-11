@@ -1,0 +1,16 @@
+{
+  "importedAt": "2026-06-10T14:35:00Z",
+  "sourceQuery": "海口景区 美景 骑楼老街 火山口 假日海滩 citywalk",
+  "city": "海口",
+  "topic": "海口景区美景：骑楼老街、火山口、假日海滩、citywalk",
+  "entryCount": 4,
+  "sources": {
+    "candidate": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-haikou-attractions-reviewed-20260610.json",
+    "raw": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\raw\\xhs-raw-b95233b8-20260610-222728.json"
+  },
+  "targets": [
+    "raw/sources/xiaohongshu/2026-06-10-haikou-attractions-citywalk/xhs-haikou-attractions-reviewed-20260610.json",
+    "raw/sources/xiaohongshu/2026-06-10-haikou-attractions-citywalk/xhs-raw-b95233b8-20260610-222728.json"
+  ],
+  "status": "ingested_as_unverified_xhs_evidence"
+}

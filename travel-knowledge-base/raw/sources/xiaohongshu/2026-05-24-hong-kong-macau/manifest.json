@@ -1,0 +1,8 @@
+{
+  "importedAt": "2026-05-27T14:38:33Z",
+  "sourceQuery": "香港澳门旅游攻略",
+  "entryCount": 9,
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-import-candidates-reviewed-20260524-234504.json",
+  "target": "raw\\sources\\xiaohongshu\\2026-05-24-hong-kong-macau\\xhs-import-candidates-reviewed-20260524-234504.json",
+  "status": "ingested_as_draft_source_summaries"
+}

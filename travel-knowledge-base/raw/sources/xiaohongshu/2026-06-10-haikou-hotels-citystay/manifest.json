@@ -1,0 +1,16 @@
+{
+  "importedAt": "2026-06-10T14:35:18Z",
+  "sourceQuery": "海口酒店 海口住宿 西海岸 骑楼老街 亲子 度假",
+  "city": "海口",
+  "topic": "海口住宿：骑楼老街、西海岸、旅拍酒店",
+  "entryCount": 2,
+  "sources": {
+    "candidate": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-haikou-hotels-1-reviewed-20260610.json",
+    "raw": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\raw\\xhs-raw-4211f62d-20260610-222831.json"
+  },
+  "targets": [
+    "raw/sources/xiaohongshu/2026-06-10-haikou-hotels-citystay/xhs-haikou-hotels-1-reviewed-20260610.json",
+    "raw/sources/xiaohongshu/2026-06-10-haikou-hotels-citystay/xhs-raw-4211f62d-20260610-222831.json"
+  ],
+  "status": "ingested_as_unverified_xhs_evidence"
+}

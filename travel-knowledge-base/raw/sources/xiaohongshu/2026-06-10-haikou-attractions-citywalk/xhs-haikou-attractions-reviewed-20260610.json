@@ -1,0 +1,338 @@
+{
+  "updatedAt": "2026-06-10T14:34:16Z",
+  "sourceQuery": "海口景区 美景 骑楼老街 火山口 假日海滩 citywalk",
+  "rawFile": "xhs-data/raw/xhs-raw-b95233b8-20260610-222728.json",
+  "entries": [
+    {
+      "id": "xhs-6a24139b000000002103dd37",
+      "module": "outdoor",
+      "title": "6.6 海口世纪大烧💜🩷❤🧡💛",
+      "summary": "美到无以言表😭 祝大家六六大顺[回招呼] #海口[话题]# #日落[话题]# #日落爱好者[话题]# #日落后出发[话题]# #一起看晚霞[话题]# #晚霞[话题]# #晚霞收集者[话题]# #海口晚霞[话题]# #小红书影像激励计划[话题]# #抬头看艺术[话题]#",
+      "tags": [
+        "海口",
+        "旅行",
+        "小红书",
+        "日落",
+        "日落爱好者",
+        "日落后出发",
+        "一起看晚霞",
+        "晚霞",
+        "晚霞收集者",
+        "海口晚霞",
+        "小红书影像激励计划",
+        "抬头看艺术",
+        "citywalk"
+      ],
+      "season": "spring",
+      "city": "海口",
+      "source": {
+        "type": "xiaohongshu",
+        "title": "6.6 海口世纪大烧💜🩷❤🧡💛",
+        "url": "https://www.xiaohongshu.com/explore/6a24139b000000002103dd37?xsec_token=ABI7Cb3INXyFDa9XHRntBew9J6day0iyHY4Th7SZifVPU=",
+        "author": "MoorLand",
+        "publishedAt": "2026-06-06"
+      },
+      "route": {
+        "ascent": null,
+        "passBy": [],
+        "descent": null,
+        "duration": null,
+        "difficulty": null
+      },
+      "media": {
+        "coverImage": "http://sns-webpic-qc.xhscdn.com/202606102227/502d1b0cad6e50b1cee60be2f3b812f2/1040g2sg3212t2sc1nu205om16r6md58261e9qg8!nd_dft_wlteh_webp_3",
+        "gallery": [
+          "http://sns-webpic-qc.xhscdn.com/202606102227/502d1b0cad6e50b1cee60be2f3b812f2/1040g2sg3212t2sc1nu205om16r6md58261e9qg8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/3b683cbd12e40e36518d2f9099d1a2f7/1040g0083212tk4ec7o6g5om16r6md582sh5fl48!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/5dd0795e3820c3f3ea114487ff4b4bcf/1040g2sg3212tk4307ok05om16r6md582ikqokk8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/02a074fae09965abe7b2b4c394e4508e/1040g2sg3212t2sc1nu0g5om16r6md582f1710c8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/2f4967940d3221f4695d463e0ca93f61/1040g2sg3212t2sc1nu105om16r6md582q9h3oe8!nd_dft_wgth_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/a2890e3e442ef072fea8491a1e86af8e/1040g2sg3212t2sc1nu605om16r6md582keki9i8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/b46a262307c9f82ec8c529e1819e8f9c/1040g2sg3212t2sc1nu2g5om16r6md582eo8dcd0!nd_dft_wgth_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/062b8d5e9c0582ce757c53f25d83c4e1/1040g2sg3212t2sc1nu3g5om16r6md582useafj8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/89263205d995dab345fcc0d3de345f31/1040g2sg3212t2sc1nu1g5om16r6md582gm0ar58!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/dd198145f75c6a92abf6fe90d3137697/1040g2sg3212t2sc1nu505om16r6md582cth4ppg!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/e6709257505d01e4aa109744ad009457/1040g2sg3212t2sc1nu305om16r6md582amh71r8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/125e91c2a4a724b8f9153ea916fa2515/1040g2sg3212t2sc1nu405om16r6md582c61ijh8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/68e6cb3d8f95e4a07de3248a824c6407/1040g2sg3212t2sc1nu4g5om16r6md5825h107s8!nd_dft_wgth_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/c04c1f3f04c92b58bed807d3b4f10812/1040g0083212tk4ec7o2g5om16r6md582936t6l8!nd_dft_wgth_webp_3"
+        ]
+      },
+      "notes": {
+        "experience": "美到无以言表😭 祝大家六六大顺[回招呼] #海口[话题]# #日落[话题]# #日落爱好者[话题]# #日落后出发[话题]# #一起看晚霞[话题]# #晚霞[话题]# #晚霞收集者[话题]# #海口晚霞[话题]# #小红书影像激励计划[话题]# #抬头看艺术[话题]#\n\nXHS metrics: likes=9.3万, collects=8898, comments=6446, shares=4万."
+      },
+      "facets": {
+        "categories": [
+          "route"
+        ],
+        "intentSignals": [],
+        "sourceMetrics": {
+          "likes": 93000,
+          "collects": 8898,
+          "comments": 6446,
+          "shares": 40000
+        }
+      },
+      "quality": {
+        "verified": false,
+        "confidence": "high"
+      },
+      "workflow": {
+        "status": "draft",
+        "reviewer": null,
+        "reviewNote": "Imported from XHS. Needs editorial review and fact checking before publishing.",
+        "importedFrom": "xhs-spider",
+        "updatedAt": "2026-06-10T14:34:03Z"
+      }
+    },
+    {
+      "id": "xhs-6944f8bd000000001e008ac5",
+      "module": "outdoor",
+      "title": "163 46｜🌴",
+      "summary": "📍海口云洞图书馆#ootd[话题]# #有种不在国内的美[话题]#",
+      "tags": [
+        "海口",
+        "旅行",
+        "小红书",
+        "ootd",
+        "有种不在国内的美",
+        "citywalk"
+      ],
+      "season": "spring",
+      "city": "海口",
+      "source": {
+        "type": "xiaohongshu",
+        "title": "163 46｜🌴",
+        "url": "https://www.xiaohongshu.com/explore/6944f8bd000000001e008ac5?xsec_token=ABmSMQjBReWIBwibUR2IwxLqQNnLrCf-1OFftJ-L-EWOw=",
+        "author": "yhin_iii",
+        "publishedAt": "2025-12-19"
+      },
+      "route": {
+        "ascent": null,
+        "passBy": [],
+        "descent": null,
+        "duration": null,
+        "difficulty": null
+      },
+      "media": {
+        "coverImage": "http://sns-webpic-qc.xhscdn.com/202606102227/bc0dbbcafac411dfcba0650ab06542ee/1040g00831q91ih9b72204a0e1phbv6srieqrkp8!nd_dft_wlteh_webp_3",
+        "gallery": [
+          "http://sns-webpic-qc.xhscdn.com/202606102227/bc0dbbcafac411dfcba0650ab06542ee/1040g00831q91ih9b72204a0e1phbv6srieqrkp8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/8cb32c4ee601543a97af661a102b7cc8/1040g00831q91ih9b72004a0e1phbv6sri9nrvh0!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/97751e7ab20a4dc4c9fd5788fe0c1e74/1040g00831q91ih9b72104a0e1phbv6srfgjm0so!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/4431c14e548d6e014821555c7d0f9d96/1040g00831q91ih9b720g4a0e1phbv6srnknq40o!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/a0fd7585da89d7e5ea45110d790f164c/1040g00831q91ih9b721g4a0e1phbv6srte9ccm8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/b09a23f7a6761be34b2f5c15e0446931/1040g00831q91ih9b72304a0e1phbv6sr3u7b0g8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/d178bf21df5aa03d1c11953f5a63483b/1040g00831q91ih9b723g4a0e1phbv6srg541o2o!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/d7723a6c96c5f18cfc08af275c252e6d/1040g00831q91ih9b722g4a0e1phbv6srkeoj490!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/c28f820e29becd461db33b7031dfab9b/1040g00831q91ih9b72404a0e1phbv6sri20mllo!nd_dft_wlteh_webp_3"
+        ]
+      },
+      "notes": {
+        "experience": "📍海口云洞图书馆#ootd[话题]# #有种不在国内的美[话题]#\n\nXHS metrics: likes=2.1万, collects=3571, comments=305, shares=977."
+      },
+      "facets": {
+        "categories": [
+          "route"
+        ],
+        "intentSignals": [],
+        "sourceMetrics": {
+          "likes": 21000,
+          "collects": 3571,
+          "comments": 305,
+          "shares": 977
+        }
+      },
+      "quality": {
+        "verified": false,
+        "confidence": "high"
+      },
+      "workflow": {
+        "status": "draft",
+        "reviewer": null,
+        "reviewNote": "Imported from XHS. Needs editorial review and fact checking before publishing.",
+        "importedFrom": "xhs-spider",
+        "updatedAt": "2026-06-10T14:34:03Z"
+      }
+    },
+    {
+      "id": "xhs-699c1cf9000000001a01c0c8",
+      "module": "outdoor",
+      "title": "海岛日记🏝️",
+      "summary": "海口的一些记录…#吹海边的风[话题]# #人生建议去海岛[话题]# #海边[话题]# #生活碎片[话题]# #日常生活[话题]#",
+      "tags": [
+        "海口",
+        "旅行",
+        "小红书",
+        "吹海边的风",
+        "人生建议去海岛",
+        "海边",
+        "生活碎片",
+        "日常生活",
+        "citywalk"
+      ],
+      "season": "spring",
+      "city": "海口",
+      "source": {
+        "type": "xiaohongshu",
+        "title": "海岛日记🏝️",
+        "url": "https://www.xiaohongshu.com/explore/699c1cf9000000001a01c0c8?xsec_token=ABPz3pXGCED9eD5u0xlgsXf6624CayoPWkkKXvoJrf2zU=",
+        "author": "麻辣香锅nina",
+        "publishedAt": "2026-02-23"
+      },
+      "route": {
+        "ascent": null,
+        "passBy": [],
+        "descent": null,
+        "duration": null,
+        "difficulty": null
+      },
+      "media": {
+        "coverImage": "http://sns-webpic-qc.xhscdn.com/202606102227/aa6345bcd5961d8476950c72ffe6329e/notes_pre_post/1040g3k031su4oufom80g5nflouv082guc7lqsj8!nd_dft_wlteh_webp_3",
+        "gallery": [
+          "http://sns-webpic-qc.xhscdn.com/202606102227/aa6345bcd5961d8476950c72ffe6329e/notes_pre_post/1040g3k031su4oufom80g5nflouv082guc7lqsj8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/9013338464b3b93346f769f4da528661/notes_pre_post/1040g3k031su4oufom82g5nflouv082gufacf2r8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/e49e4ad43fa78393ac00f54ab6950ca7/notes_pre_post/1040g3k031su4oufom8305nflouv082gu3bdhh38!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/74794696b031d8418a562fc5a9f061be/notes_pre_post/1040g3k031su4oufom81g5nflouv082gumdppqf0!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/d2c1315c878bb04a6a154b444293fdae/notes_pre_post/1040g3k031su4oufom8005nflouv082gu5gjjsoo!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/2bee9fe87d8556f3ad56b75461cf0bac/notes_pre_post/1040g3k031su4oufom8405nflouv082gua855thg!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/9ddd4178e9e488750100401196871ab9/notes_pre_post/1040g3k031su4oufom83g5nflouv082gu9f139po!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/e4fba0d0d43747d2726e07bd2c2687ab/notes_pre_post/1040g3k031su4oufom8105nflouv082gu2s335ag!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/0053351e780f2a003219ea8c540d82e0/notes_pre_post/1040g3k031su4oufom84g5nflouv082gujrftug8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102227/737d4093e2b0b821fe87cdacb8affd36/notes_pre_post/1040g3k031su4oufom8205nflouv082gui4kdtmg!nd_dft_wlteh_webp_3"
+        ]
+      },
+      "notes": {
+        "experience": "海口的一些记录…#吹海边的风[话题]# #人生建议去海岛[话题]# #海边[话题]# #生活碎片[话题]# #日常生活[话题]#\n\nXHS metrics: likes=5428, collects=917, comments=72, shares=373."
+      },
+      "facets": {
+        "categories": [
+          "attraction"
+        ],
+        "intentSignals": [],
+        "sourceMetrics": {
+          "likes": 5428,
+          "collects": 917,
+          "comments": 72,
+          "shares": 373
+        }
+      },
+      "quality": {
+        "verified": false,
+        "confidence": "high"
+      },
+      "workflow": {
+        "status": "draft",
+        "reviewer": null,
+        "reviewNote": "Imported from XHS. Needs editorial review and fact checking before publishing.",
+        "importedFrom": "xhs-spider",
+        "updatedAt": "2026-06-10T14:34:03Z"
+      }
+    },
+    {
+      "id": "xhs-69f98338000000003601db6b",
+      "module": "outdoor",
+      "title": "海口小众旅行地🥥真的太“阔以”了‼️",
+      "summary": "五一与其在人堆里大眼瞪小眼，不如来海口当个“闲人”！🌊 海南本地人拍胸脯保证：来海口就得“阔”一点——阔开视野，阔步慢行。 这次五一，我解锁了一条超小众的椰城漫游路线，主打一个松弛感拉满～👇 📍 海口火山口国家地质公园 钻进万年前的火山口，顺着铁梯往上爬，湿润的热带雨林风扑面而来。 💡 登顶222.8米的海口之巅，琼州海峡和万亩荔枝园直接撞进眼里！这种无死...",
+      "tags": [
+        "海口",
+        "旅行",
+        "小红书",
+        "华为PuraXMax",
+        "大阔折一用就爱",
+        "大阔折太阔了",
+        "XMAGE智拍很会拍",
+        "PuraTrip",
+        "五一去海口",
+        "阔游椰城",
+        "海口旅游攻略",
+        "小众旅行地",
+        "机位",
+        "咖啡",
+        "建筑",
+        "citywalk",
+        "松弛",
+        "路线"
+      ],
+      "season": "spring",
+      "city": "海口",
+      "source": {
+        "type": "xiaohongshu",
+        "title": "海口小众旅行地🥥真的太“阔以”了‼️",
+        "url": "https://www.xiaohongshu.com/explore/69f98338000000003601db6b?xsec_token=ABxWEjkyAZqWTF2tNm7JDIGnwRZa5XZz2YpvJPnhIt6U0=",
+        "author": "加加Kiana",
+        "publishedAt": "2026-05-05"
+      },
+      "route": {
+        "ascent": null,
+        "passBy": [],
+        "descent": null,
+        "duration": null,
+        "difficulty": null
+      },
+      "media": {
+        "coverImage": "http://sns-webpic-qc.xhscdn.com/202606102227/792da2940292f40920753a78f8d7d8b2/1040g2sg31vpa4jvbiie04bdplf0t1gfk94vps00!nd_dft_wlteh_webp_3",
+        "gallery": [
+          "http://sns-webpic-qc.xhscdn.com/202606102227/792da2940292f40920753a78f8d7d8b2/1040g2sg31vpa4jvbiie04bdplf0t1gfk94vps00!nd_dft_wlteh_webp_3"
+        ]
+      },
+      "notes": {
+        "experience": "五一与其在人堆里大眼瞪小眼，不如来海口当个“闲人”！🌊 海南本地人拍胸脯保证：来海口就得“阔”一点——阔开视野，阔步慢行。 这次五一，我解锁了一条超小众的椰城漫游路线，主打一个松弛感拉满～👇 📍 海口火山口国家地质公园 钻进万年前的火山口，顺着铁梯往上爬，湿润的热带雨林风扑面而来。 💡 登顶222.8米的海口之巅，琼州海峡和万亩荔枝园直接撞进眼里！这种无死角的广阔视野，看着特别爽！ 📍 荣堂七十二洞 避开人群，跟着本地人钻进这片1.3万年前的野生熔岩洞窟。 💡 洞顶倾泻下的天光超美！这时候大阔折的双屏同显就派上用场了，外屏对着自己调整站位，内屏负责构图，一个人也能轻松拿捏大片。 超喜欢它的AI姿势推荐：不会poss没关系，它“手把手”教，轻松出片 📍 云洞图书馆 傍晚的云洞才是完全体！日落把天际线染红，火烧云广阔到取景框都装不下。但如果想拍到人少得一早来。 💀 重点夸夸大阔折的AI辅助构图：完全不懂摄影也没关系，手机像个小老师，提示你“向左移”“抬高机位”，跟着指引一拍，人、建筑、夕阳完美融合！ 🎞️ 再按一下3D动态照片，海浪和流动的光影瞬间活了过来，氛围感拉满。 📍 土狗咖啡 & 骑楼老爸茶 钻进龙华区的老巷子，点一杯招牌“辣椒盐美式”，咸、辣、苦、甜、酸，五种味道在嘴里转“阔”了！🤯 最后溜进骑楼的老爸茶馆，点壶茶看窗外人来人往。海南的慢，是海风和人情织出来的。 ✨ 加加的碎碎念： 以前出门总觉得累，这次轻装上阵。眼“阔”了，心“阔”了，只要出门，哪里都是好风景。五一，做个松弛的“阔”游者吧！ #华为PuraXMax[话题]#、#大阔折一用就爱[话题]#、#大阔折太阔了[话题]#、#XMAGE智拍很会拍[话题]#、#PuraTrip[话题]##五一去海口[话题]# #阔游椰城[话题]# #PuraTrip[话题]# #海口旅游攻略[话题]# #小众旅行地[话题]#\n\nXHS metrics: likes=5022, collects=1129, comments=203, shares=104."
+      },
+      "facets": {
+        "categories": [
+          "attraction",
+          "food",
+          "route",
+          "intent"
+        ],
+        "intentSignals": [
+          "photo",
+          "food",
+          "relax"
+        ],
+        "sourceMetrics": {
+          "likes": 5022,
+          "collects": 1129,
+          "comments": 203,
+          "shares": 104
+        }
+      },
+      "quality": {
+        "verified": false,
+        "confidence": "high"
+      },
+      "workflow": {
+        "status": "draft",
+        "reviewer": null,
+        "reviewNote": "Imported from XHS. Needs editorial review and fact checking before publishing.",
+        "importedFrom": "xhs-spider",
+        "updatedAt": "2026-06-10T14:34:03Z"
+      }
+    }
+  ],
+  "filter": {
+    "city": "海口",
+    "strict": true,
+    "source": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-import-candidates-b95233b8-20260610-222728-rebuilt.json",
+    "kept": 4,
+    "removed": 3,
+    "removedEntries": [
+      {
+        "id": "xhs-69466b7e000000001e00335e",
+        "title": "万宁最新island trip🏖️👙来度假一定要参考",
+        "reason": "other_city:三亚,万宁"
+      },
+      {
+        "id": "xhs-69d51e08000000001d01f55c",
+        "title": "五一反向旅游！愿意安利1w次的海滨城市：陵水",
+        "reason": "other_city:三亚,陵水"
+      },
+      {
+        "id": "xhs-698d6d6e000000000c034a56",
+        "title": "为了这18张照片，我专门飞了一趟三亚……",
+        "reason": "other_city:三亚"
+      }
+    ]
+  }
+}

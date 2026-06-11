@@ -1,0 +1,34 @@
+{
+  "updatedAt": "2026-05-27T14:38:33Z",
+  "purpose": "Structured manifest for the travel mini program and future ingestion jobs.",
+  "sourceBatch": "raw/sources/xiaohongshu/2026-05-24-hong-kong-macau/xhs-import-candidates-reviewed-20260524-234504.json",
+  "entryCount": 9,
+  "imageCount": 130,
+  "cities": {
+    "香港": [
+      "xhs-69b2758600000000060333ab",
+      "xhs-6a0535a8000000000803f41d",
+      "xhs-68218bec0000000012003f10",
+      "xhs-69b7f94c0000000023017e7d",
+      "xhs-695e1a1a0000000022023cdf",
+      "xhs-69e6505c000000002202be33",
+      "xhs-69190f8f000000001b02176f",
+      "xhs-683e85ae000000002301742c"
+    ],
+    "澳门": [
+      "xhs-69b2758600000000060333ab",
+      "xhs-6a0535a8000000000803f41d",
+      "xhs-68218bec0000000012003f10",
+      "xhs-69b7f94c0000000023017e7d",
+      "xhs-693fdfda000000001b025540",
+      "xhs-69e6505c000000002202be33",
+      "xhs-69190f8f000000001b02176f",
+      "xhs-683e85ae000000002301742c"
+    ]
+  },
+  "confidence": {
+    "medium": 4,
+    "low": 2,
+    "high": 3
+  }
+}

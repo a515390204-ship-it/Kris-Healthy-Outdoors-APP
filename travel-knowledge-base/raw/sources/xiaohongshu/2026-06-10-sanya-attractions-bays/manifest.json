@@ -1,0 +1,16 @@
+{
+  "importedAt": "2026-06-10T14:36:27Z",
+  "sourceQuery": "三亚景区 美景 亚龙湾 蜈支洲岛 天涯海角 海棠湾",
+  "city": "三亚",
+  "topic": "三亚景区 attractions：亚龙湾、蜈支洲岛、天涯海角、海棠湾",
+  "entryCount": 6,
+  "sources": {
+    "candidate": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-sanya-attractions-reviewed-20260610.json",
+    "raw": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\raw\\xhs-raw-ddfd101d-20260610-222933.json"
+  },
+  "targets": [
+    "raw/sources/xiaohongshu/2026-06-10-sanya-attractions-bays/xhs-sanya-attractions-reviewed-20260610.json",
+    "raw/sources/xiaohongshu/2026-06-10-sanya-attractions-bays/xhs-raw-ddfd101d-20260610-222933.json"
+  ],
+  "status": "ingested_as_unverified_xhs_evidence"
+}

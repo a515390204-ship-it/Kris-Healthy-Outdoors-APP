@@ -1,0 +1,8 @@
+{
+  "name": "Travel Knowledge Base",
+  "schemaVersion": 1,
+  "createdAt": "2026-05-27T14:38:33Z",
+  "template": "custom-travel-planning",
+  "rawSourcesPath": "raw/sources",
+  "wikiPath": "wiki"
+}

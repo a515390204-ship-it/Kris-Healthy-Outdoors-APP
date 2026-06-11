@@ -1,0 +1,169 @@
+{
+  "updatedAt": "2026-06-09T16:10:42Z",
+  "type": "travel_city_xhs_batch",
+  "city": "杭州",
+  "topic": "杭州酒店住宿：西湖、湖滨、亲子、度假",
+  "batch": "2026-06-10-hangzhou-hotels-staycation",
+  "sources": [
+    "raw/sources/xiaohongshu/2026-06-10-hangzhou-hotels-staycation/xhs-import-candidates-d90a716d-20260610-000927.json",
+    "raw/sources/xiaohongshu/2026-06-10-hangzhou-hotels-staycation/xhs-raw-d90a716d-20260610-000927.json"
+  ],
+  "confidence": "mixed",
+  "verified": false,
+  "entryCount": 6,
+  "categoryCounts": {
+    "attraction": 5,
+    "hotel": 4,
+    "food": 2,
+    "intent": 2,
+    "transport": 1
+  },
+  "intentCounts": {
+    "relax": 3,
+    "food": 1
+  },
+  "entries": [
+    {
+      "id": "xhs-694a3407000000000d039b6c",
+      "title": "无标题",
+      "city": "杭州",
+      "categories": [
+        "attraction"
+      ],
+      "intentSignals": [],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/694a3407000000000d039b6c?xsec_token=AB708kU6JiehtG7d__eSSMJ9uGtSPOtZHx4KUi5SSgwBM=",
+      "summary": "人均50的游乐园，还在杭州西湖边上，我真懵了#日常vlog[话题]# #杭州便宜乐园[话题]#",
+      "metrics": {
+        "likes": 11000,
+        "collects": 2447,
+        "comments": 622,
+        "shares": 3841
+      },
+      "imageCount": 1,
+      "wikiSource": "wiki/sources/xiaohongshu/694a3407000000000d039b6c.md"
+    },
+    {
+      "id": "xhs-69bbccad00000000220025de",
+      "title": "staycation氛围感酒店 | 年度12家合集",
+      "city": "杭州",
+      "categories": [
+        "attraction",
+        "hotel"
+      ],
+      "intentSignals": [
+        "relax"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69bbccad00000000220025de?xsec_token=ABaEHqczo3BJXB2d4EWBUcEzjJ47t80mwHdqbtnZyE9LI=",
+      "summary": "湖州白埠·松镜 p1 杭州湖边邨 p2 杭州夕上·虎跑1934 p3-6 莫干山大乐之野 p7-8 杭州无它心舍 p9-10 上海锦江汤臣洲际 p11 上海锦江 p12 三亚艾迪逊 p13 杭州素上 p14 杭州如是居深林疗愈酒店 p15 杭州春之屋 p16-17 上海宝格丽 p18",
+      "metrics": {
+        "likes": 7292,
+        "collects": 6371,
+        "comments": 111,
+        "shares": 3490
+      },
+      "imageCount": 18,
+      "wikiSource": "wiki/sources/xiaohongshu/69bbccad00000000220025de.md"
+    },
+    {
+      "id": "xhs-69c524ee000000001e00c637",
+      "title": "江浙沪staycation已是next level",
+      "city": "杭州",
+      "categories": [
+        "attraction",
+        "food",
+        "hotel",
+        "intent"
+      ],
+      "intentSignals": [
+        "relax"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69c524ee000000001e00c637?xsec_token=AB9xW_nterPzAUC0ZLvSpKeYvlzZGJ_LuGrT7qS9I0YUw=",
+      "summary": "P1.临安 向野而生 P2.杭州 西溪芯 P3.西塘 VOCO P4.杭州 绿城玫瑰园 P5.杭州 春之屋 P6.台州 星野天台山 P7.安吉 善侒 P8.新昌 安岚 P9.苏州 狮山悦榕庄 P10.安吉 野在山川 P11.天目山 都喜天丽 P12.千岛湖 安岚 P13.无锡 雪浪宋品 P14.杭州 夕上虎跑 P15.安吉 悦榕庄 P16.杭州 黄龙饭店...",
+      "metrics": {
+        "likes": 5763,
+        "collects": 6365,
+        "comments": 154,
+        "shares": 4991
+      },
+      "imageCount": 18,
+      "wikiSource": "wiki/sources/xiaohongshu/69c524ee000000001e00c637.md"
+    },
+    {
+      "id": "xhs-6958fc5c000000001e0351c2",
+      "title": "江浙沪staycation｜泡汤♨️年度合集",
+      "city": "杭州",
+      "categories": [
+        "attraction",
+        "hotel",
+        "intent"
+      ],
+      "intentSignals": [
+        "relax"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6958fc5c000000001e0351c2?xsec_token=AB3lPkTrTaNpfkMb0OLAp0TO1J0pV2Bnt2jkFPZRpgn_s=",
+      "summary": "P1-3杭州 春之屋 P4-6杭州 西溪芯酒店 P7-9南京 园博园悦榕庄 P10-12安吉 善侒 P13-15千岛湖 安岚 P16-18黄山 帐篷客 亲测推荐啦～ #发现宝藏酒店[话题]# #staycation[话题]# #江浙沪周边游[话题]# #旅游编辑部[话题]# #冬日泡汤时间到[话题]# #度假[话题]# #周末去哪儿[话题]# #旅游万粉扶...",
+      "metrics": {
+        "likes": 4148,
+        "collects": 3601,
+        "comments": 118,
+        "shares": 3398
+      },
+      "imageCount": 18,
+      "wikiSource": "wiki/sources/xiaohongshu/6958fc5c000000001e0351c2.md"
+    },
+    {
+      "id": "xhs-69db68f70000000023023771",
+      "title": "杭州旅游真实感受……（纯个人主观）",
+      "city": "杭州",
+      "categories": [
+        "food"
+      ],
+      "intentSignals": [
+        "food"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69db68f70000000023023771?xsec_token=ABugFO6xVa5XuaJ0UAaXbOogAWncOOId9oDeTjA8DUGPc=",
+      "summary": "#杭州LGDNBW九尾[话题]# #杭州[话题]# #杭州探店[话题]##杭州旅游[话题]# #杭州美食[话题]# #杭州蛋糕[话题]#",
+      "metrics": {
+        "likes": 3780,
+        "collects": 3856,
+        "comments": 55,
+        "shares": 1369
+      },
+      "imageCount": 8,
+      "wikiSource": "wiki/sources/xiaohongshu/69db68f70000000023023771.md"
+    },
+    {
+      "id": "xhs-6947cb16000000001e02ed4b",
+      "title": "年终总结｜ 有点品味的Staycation🧾1.0",
+      "city": "杭州",
+      "categories": [
+        "attraction",
+        "hotel",
+        "transport"
+      ],
+      "intentSignals": [],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6947cb16000000001e02ed4b?xsec_token=ABhtTz-vydHDyGzCiIMu1trVQC7eal6ZBs06jeGnwhjyI=",
+      "summary": "全部都是自己体验过并且杭州出发1小时🚗 我的挚爱清单🧾1.0 排名不分先后： 杭州 湘湖逍遥庄园（P1-2 湖州 尔集·一叶（P3-4 杭州 夕上虎跑（P5-6 绍兴 新昌安岚（P7-8 湖州 隐山寂 （P9-10 千岛湖 VOCO（P11-12 建德 朴宿所在 （P13-14 安吉语自在 （P15-16 #小众设计酒店[话题]# #为了住酒店而去的目的地...",
+      "metrics": {
+        "likes": 2239,
+        "collects": 1683,
+        "comments": 61,
+        "shares": 1012
+      },
+      "imageCount": 14,
+      "wikiSource": "wiki/sources/xiaohongshu/6947cb16000000001e02ed4b.md"
+    }
+  ]
+}

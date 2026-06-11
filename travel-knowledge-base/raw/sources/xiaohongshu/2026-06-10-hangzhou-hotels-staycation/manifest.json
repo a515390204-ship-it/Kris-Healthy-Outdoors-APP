@@ -1,0 +1,16 @@
+{
+  "importedAt": "2026-06-09T16:10:42Z",
+  "sourceQuery": "杭州酒店 住宿 西湖 湖滨 亲子 度假",
+  "city": "杭州",
+  "topic": "杭州酒店住宿：西湖、湖滨、亲子、度假",
+  "entryCount": 6,
+  "sources": {
+    "candidate": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-import-candidates-d90a716d-20260610-000927.json",
+    "raw": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\raw\\xhs-raw-d90a716d-20260610-000927.json"
+  },
+  "targets": [
+    "raw/sources/xiaohongshu/2026-06-10-hangzhou-hotels-staycation/xhs-import-candidates-d90a716d-20260610-000927.json",
+    "raw/sources/xiaohongshu/2026-06-10-hangzhou-hotels-staycation/xhs-raw-d90a716d-20260610-000927.json"
+  ],
+  "status": "ingested_as_unverified_xhs_evidence"
+}

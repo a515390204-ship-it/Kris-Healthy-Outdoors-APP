@@ -1,0 +1,374 @@
+{
+  "updatedAt": "2026-06-10T14:34:17Z",
+  "sourceQuery": "海口酒店推荐 海口海景酒店 海口亲子酒店 海口民宿",
+  "rawFile": "xhs-data/raw/xhs-raw-1d90514b-20260610-222857.json",
+  "entries": [
+    {
+      "id": "xhs-69a2b399000000001a027ce0",
+      "module": "outdoor",
+      "title": "海口|400+躺看一线海景，新春遛娃太香了！",
+      "summary": "做为每年必刷海南的旅行博主 今年过年带娃在海口住的这家海景酒店🏨 我想安利给所有姐妹👭 🌊 躺看一线海景：房间正对大海，早上被海浪声叫醒，傍晚看橘子海日落 🐰 萌宠互动：酒店里有软fufu的垂耳兔，小朋友可以近距离贴贴 、投喂 🧨 新春氛围拉满：投壶、套圈、钓锦鲤、新年主题打卡墙，年味十足 🏊 泳池派对嗨翻天：超大户外泳池+椰林环绕，白天玩水，晚上看烟花🎆...",
+      "tags": [
+        "海口",
+        "旅行",
+        "小红书",
+        "旅游万粉计划",
+        "海口亲子游",
+        "海口遛娃",
+        "海口酒店",
+        "海口海景酒店",
+        "海口旅行",
+        "海口过年",
+        "海口春节去哪玩",
+        "亲子酒店推荐",
+        "高性价比酒店",
+        "遛娃不费妈",
+        "带娃去旅行",
+        "海边度假",
+        "海南旅游",
+        "海南亲子游"
+      ],
+      "season": "spring",
+      "city": "海口",
+      "source": {
+        "type": "xiaohongshu",
+        "title": "海口|400+躺看一线海景，新春遛娃太香了！",
+        "url": "https://www.xiaohongshu.com/explore/69a2b399000000001a027ce0?xsec_token=ABdqqhv3XYrXIUOJSR3E6JignG0ZWLV6Y-Sms7zt4Am2M=",
+        "author": "Catherine",
+        "publishedAt": "2026-03-01"
+      },
+      "route": {
+        "ascent": null,
+        "passBy": [],
+        "descent": null,
+        "duration": null,
+        "difficulty": null
+      },
+      "media": {
+        "coverImage": "http://sns-webpic-qc.xhscdn.com/202606102228/417a2ae951cf76bab5427a0870b066f8/1040g2sg31t4hk6tulk7049ul201rpbddvgdlp0o!nd_dft_wlteh_webp_3",
+        "gallery": [
+          "http://sns-webpic-qc.xhscdn.com/202606102228/417a2ae951cf76bab5427a0870b066f8/1040g2sg31t4hk6tulk7049ul201rpbddvgdlp0o!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/0f84e573ff952f65ca17a030e81a612c/1040g2sg31t4hk6tulk7g49ul201rpbddm105o78!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/3bd33e4407ed3dda7617e4b31b03405b/1040g2sg31t4hk6tulk8049ul201rpbdd5ummlmo!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/6c992ea9b8e4424ab8e350e519bc3b2e/1040g2sg31t4hk6tulk8g49ul201rpbddsdt3oko!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/b8b1cc415a83cd76b082021ee215fa3b/1040g00831t4il7fp5s0049ul201rpbddbj9tm6o!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/f3d240930f360eb8c569bb40cad1285a/1040g2sg31t4hk6tulk9049ul201rpbddll11240!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/23b064c0ea167095dcbecac2c57682db/1040g2sg31t4hk6tulk9g49ul201rpbddugftdso!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/fd2d76b3783a33500288c7109725e407/1040g2sg31t4hk6tulkb049ul201rpbdd4hsgr6o!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/335ca26733b4396f4d604960476f4bc2/1040g2sg31t4hk6tulka049ul201rpbdddi2n2gg!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/727fd1a570715c403ab4ae20e8b92285/1040g2sg31t4hk6tulkag49ul201rpbdd4rbg1h0!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/86259734d1454ebbe62593bed388e2b1/1040g2sg31t4hk6tulkbg49ul201rpbddphjjju0!nd_dft_wgth_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/f7246081478cb8f2235aa52f9cd0f9a7/1040g2sg31t4hk6tulkc049ul201rpbddh1bmdb8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/60c25c3889c7e99bc0c62c502c02a21d/1040g00831t4il7fp5s0g49ul201rpbddi5ohb58!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/cfa54fd484f1ac366419180cef486a4a/1040g2sg31t4hk6tulkcg49ul201rpbddnl6prn0!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/74e786afc6e4ba02eff7fb7b0e8732d1/1040g2sg31t4hk6tulkd049ul201rpbdd37g1p9o!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/f73aca498bb6fe1465baa8e3688ce40e/1040g00831t4il7fp5s1049ul201rpbddrg8nk78!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/5413f71a86effd3787bedb9e7b358ee9/1040g2sg31t4hk6tulkdg49ul201rpbdd40em3fo!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/e1c3bbe075fb2e8f186ae1192e710dda/1040g00831t4il7fp5s1g49ul201rpbdd49iv130!nd_dft_wlteh_webp_3"
+        ]
+      },
+      "notes": {
+        "experience": "做为每年必刷海南的旅行博主 今年过年带娃在海口住的这家海景酒店🏨 我想安利给所有姐妹👭 🌊 躺看一线海景：房间正对大海，早上被海浪声叫醒，傍晚看橘子海日落 🐰 萌宠互动：酒店里有软fufu的垂耳兔，小朋友可以近距离贴贴 、投喂 🧨 新春氛围拉满：投壶、套圈、钓锦鲤、新年主题打卡墙，年味十足 🏊 泳池派对嗨翻天：超大户外泳池+椰林环绕，白天玩水，晚上看烟花🎆，氛围感拉满 📍 地理位置绝了：打车去骑楼老街、万绿园、云洞图书馆、海南省博物馆，去夜市逛吃都很方便 🐾 宠物友好+亲子友好：不仅能撸酒店的萌宠，还能带自家毛孩子入住，亲子设施齐全，娃玩得不想走 👏👏预算友好又能享受顶奢度假感，海口遛娃闭眼冲！ #旅游万粉计划[话题]##海口亲子游[话题]##海口遛娃[话题]##海口酒店[话题]# #海口海景酒店[话题]# #海口旅行[话题]##海口过年[话题]# #海口春节去哪玩[话题]# #亲子酒店推荐[话题]##高性价比酒店[话题]##遛娃不费妈[话题]# #带娃去旅行[话题]##海边度假[话题]# #海南旅游[话题]##海南亲子游[话题]##寒假遛娃[话题]##新春旅行[话题]##宝藏酒店[话题]##亲子度假[话题]##海口攻略[话题]# #周末去哪儿[话题]#\n\nXHS metrics: likes=237, collects=80, comments=64, shares=143."
+      },
+      "facets": {
+        "categories": [
+          "attraction",
+          "food",
+          "hotel",
+          "transport",
+          "route",
+          "intent"
+        ],
+        "intentSignals": [
+          "photo",
+          "relax",
+          "family"
+        ],
+        "sourceMetrics": {
+          "likes": 237,
+          "collects": 80,
+          "comments": 64,
+          "shares": 143
+        }
+      },
+      "quality": {
+        "verified": false,
+        "confidence": "medium"
+      },
+      "workflow": {
+        "status": "draft",
+        "reviewer": null,
+        "reviewNote": "Imported from XHS. Needs editorial review and fact checking before publishing.",
+        "importedFrom": "xhs-spider",
+        "updatedAt": "2026-06-10T14:34:03Z"
+      }
+    },
+    {
+      "id": "xhs-6986a02100000000150385e3",
+      "module": "outdoor",
+      "title": "无标题",
+      "summary": "求真实入住后的朋友们推荐海口五星级酒店哪个好，想看海。#海口酒店[话题]#",
+      "tags": [
+        "海口",
+        "旅行",
+        "小红书",
+        "海口酒店",
+        "酒店"
+      ],
+      "season": "spring",
+      "city": "海口",
+      "source": {
+        "type": "xiaohongshu",
+        "title": "无标题",
+        "url": "https://www.xiaohongshu.com/explore/6986a02100000000150385e3?xsec_token=AB04puq7v0p1HhCPcXFNhk6ODhdTUY2SztNCwq6o-BB5M=",
+        "author": "歆",
+        "publishedAt": "2026-02-07"
+      },
+      "route": {
+        "ascent": null,
+        "passBy": [],
+        "descent": null,
+        "duration": null,
+        "difficulty": null
+      },
+      "media": {
+        "coverImage": "http://sns-webpic-qc.xhscdn.com/202606102228/29482f9472c9eb902cb7faa211d08fb0/1040g2sg31s957acslke05obact4gjm1i6r4ik9o!nd_dft_wlteh_webp_3",
+        "gallery": [
+          "http://sns-webpic-qc.xhscdn.com/202606102228/29482f9472c9eb902cb7faa211d08fb0/1040g2sg31s957acslke05obact4gjm1i6r4ik9o!nd_dft_wlteh_webp_3"
+        ]
+      },
+      "notes": {
+        "experience": "求真实入住后的朋友们推荐海口五星级酒店哪个好，想看海。#海口酒店[话题]#\n\nXHS metrics: likes=23, collects=16, comments=40, shares=5."
+      },
+      "facets": {
+        "categories": [
+          "hotel"
+        ],
+        "intentSignals": [],
+        "sourceMetrics": {
+          "likes": 23,
+          "collects": 16,
+          "comments": 40,
+          "shares": 5
+        }
+      },
+      "quality": {
+        "verified": false,
+        "confidence": "low"
+      },
+      "workflow": {
+        "status": "draft",
+        "reviewer": null,
+        "reviewNote": "Imported from XHS. Needs editorial review and fact checking before publishing.",
+        "importedFrom": "xhs-spider",
+        "updatedAt": "2026-06-10T14:34:03Z"
+      }
+    },
+    {
+      "id": "xhs-69cc6153000000001d01b7de",
+      "module": "outdoor",
+      "title": "人少景美不费妈🏝️海边躺平式带娃就选这❗️",
+      "summary": "带爱挖沙爱玩水的Coco来海口，为了孩子玩开心+不费家长，行程基本都在西海岸一带，开启海边挖沙深度游🌊 海口沙滩很细，对比酒店直通的海边，更推荐西秀海滩公园、五源河湿地公园，海水更干净🏖️ 上午9:00-12:00和下午16:00-18:30更适合带娃去海边，不晒也不凉👧🏻 📝分享真实体验和详细攻略给大家 【住宿】 🏨分别住了西海岸大酒店和海口万豪，两家整...",
+      "tags": [
+        "海口",
+        "旅行",
+        "小红书",
+        "假期去哪玩",
+        "带娃去哪儿玩",
+        "带娃旅行",
+        "轻松带娃旅行",
+        "海南旅游",
+        "海口亲子游",
+        "海边",
+        "沙滩",
+        "出门即沙滩",
+        "野生动物园",
+        "出片",
+        "好吃",
+        "躺平",
+        "酒店",
+        "住宿"
+      ],
+      "season": "spring",
+      "city": "海口",
+      "source": {
+        "type": "xiaohongshu",
+        "title": "人少景美不费妈🏝️海边躺平式带娃就选这❗️",
+        "url": "https://www.xiaohongshu.com/explore/69cc6153000000001d01b7de?xsec_token=AB4Ruf9o1SnBNyd81nuxgFJ480GspQMn0YSsh_09F81OI=",
+        "author": "Coco妈妈遛娃记",
+        "publishedAt": "2026-04-01"
+      },
+      "route": {
+        "ascent": null,
+        "passBy": [],
+        "descent": null,
+        "duration": null,
+        "difficulty": null
+      },
+      "media": {
+        "coverImage": "http://sns-webpic-qc.xhscdn.com/202606102228/8d70b33a3b2f66e05e17375df68cfbb1/1040g2sg31uevlrqqhu005ndiho5g8rhbsnhd4sg!nd_dft_wlteh_webp_3",
+        "gallery": [
+          "http://sns-webpic-qc.xhscdn.com/202606102228/8d70b33a3b2f66e05e17375df68cfbb1/1040g2sg31uevlrqqhu005ndiho5g8rhbsnhd4sg!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/6b0008273175e245b36cf65681abf1fe/1040g2sg31ud9093ij40g5ndiho5g8rhbvn4c69o!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/c6e076835025d288e5f74950f2762467/1040g2sg31ud9093ij4105ndiho5g8rhbnk3fsk8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/15871c02373944c0c84a40cac0a23027/1040g2sg31ud9093ij41g5ndiho5g8rhbviqcg78!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/74324d5272f2c31f07205f06f2c73245/1040g2sg31ud9093ij4205ndiho5g8rhbch315fo!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/d6662edd11fc586a3b744788d57afb5a/1040g2sg31ud9093ij42g5ndiho5g8rhbfhcm7m0!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/8d036dfb83c29016607041833895d62c/1040g2sg31ud9093ij4305ndiho5g8rhbjj49570!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/8f51bc9007744c41a7664d126bafb602/1040g2sg31ud9093ij43g5ndiho5g8rhbr07r328!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/ba794540da6e1072cb26d6e35a53fde2/1040g2sg31ud9093ij4405ndiho5g8rhba0tls0o!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/3d49a6547c444db25f7a378f33c42314/1040g2sg31ud9093ij44g5ndiho5g8rhb7j6squg!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/61b6b2ba9e800e529870a035e745b3b7/1040g2sg31ud9093ij4505ndiho5g8rhbho4r8so!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/e8365f1936c5a23282b536b797102bc7/1040g2sg31ud9093ij45g5ndiho5g8rhb740qito!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/33ef9415edc0e5829cfb0d827cb7582a/1040g2sg31ud9093ij4605ndiho5g8rhbskhonc0!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/dcc3b3aee70773e773de8255a90f74c9/1040g2sg31ud9093ij46g5ndiho5g8rhb319bbt8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/bed82666e862e6aa7d8bacc9306d8587/1040g2sg31ud940cgj4e05ndiho5g8rhb6klkod0!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/9b37ac914217d09ccdcc60f7065608b3/1040g2sg31ud940cgj4eg5ndiho5g8rhbrpa4ud8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/ed119bbcdd1dc17e5bf03cba2d499cf3/1040g2sg31ud940cgj4f05ndiho5g8rhbinq7hgo!nd_dft_wlteh_webp_3"
+        ]
+      },
+      "notes": {
+        "experience": "带爱挖沙爱玩水的Coco来海口，为了孩子玩开心+不费家长，行程基本都在西海岸一带，开启海边挖沙深度游🌊 海口沙滩很细，对比酒店直通的海边，更推荐西秀海滩公园、五源河湿地公园，海水更干净🏖️ 上午9:00-12:00和下午16:00-18:30更适合带娃去海边，不晒也不凉👧🏻 📝分享真实体验和详细攻略给大家 【住宿】 🏨分别住了西海岸大酒店和海口万豪，两家整体都不错（上篇笔记写了两家酒店测评，欢迎移步看帖） 【七天六晚行程】 1️⃣落地海南→酒店入住→晚饭（嗲嗲椰子鸡）→回酒店 2️⃣早餐→酒店沙滩→午饭（海南人家）→免税店逛街→晚饭（免税店 “食通天”）→回酒店 🦐海南人家环境一般，味道不错 🎫10点抢政府消费券（很难抢…），有的酒店能领专属免税店优惠券 3️⃣早餐→酒店沙滩→午饭（免税店“拾味馆”）→免税店逛街→酒店下午茶→喜来登“儿童乐园”→回酒店-外卖晚饭（老爸茶+米丫家清补凉） 🌴喜来登挨着西海岸大酒店，可以走过去，室外公区很好看很出片 🛝喜来登室内儿童乐园不错，孩子爱玩的滑梯、海洋球都有 🥡老爸茶和米丫家清补凉，都推荐 4️⃣早餐→海南热带野生动植物园→下午饭（老潮汕小馆）→西秀海滩公园→回酒店→外卖晚饭（椰语堂） 🐼野生动物园强推，体验感好，环境也美，带娃建议租车走自驾区，更省力 😋老潮汕小馆、椰语堂强推，都好吃 ⛵️西秀海滩公园很大，环境好，帆船俱乐部也在这里 5️⃣早餐→五源河湿地公园→酒店退房→午饭（王丽珍脆皮鸡煲）→万豪酒店入住→酒店户外儿童乐园→假日海滩→晚饭（东就鸭）→回酒店 🪾五源河湿地公园人少小众，体验感好 🪂假日海滩能看到滑翔伞，有吃饭的排档 6️⃣早餐→西秀海滩公园→回酒店→外卖午饭（九毛九）→酒店室内儿童乐园→五源河湿地公园→晚饭（开心烧烤）→回酒店 ⛲️二刷西秀海滩公园，很chill很喜欢 🍚九毛九味道不错，家常菜适合孩子吃 🦀二刷五源河湿地公园，下午来感觉更好，退潮后有小沙蟹，有浅滩，孩子喜欢“过河”玩水 🍖开心烧烤是本地朋友推荐的，很不错 7️⃣返程 #假期去哪玩[话题]# #带娃去哪儿玩[话题]# #带娃旅行[话题]# #轻松带娃旅行[话题]# #海南旅游[话题]# #海口亲子游[话题]# #海边[话题]# #沙滩[话题]# #出门即沙滩[话题]# #野生动物园[话题]#\n\nXHS metrics: likes=166, collects=235, comments=21, shares=102."
+      },
+      "facets": {
+        "categories": [
+          "attraction",
+          "food",
+          "hotel",
+          "transport",
+          "route",
+          "intent"
+        ],
+        "intentSignals": [
+          "photo",
+          "food",
+          "relax",
+          "family"
+        ],
+        "sourceMetrics": {
+          "likes": 166,
+          "collects": 235,
+          "comments": 21,
+          "shares": 102
+        }
+      },
+      "quality": {
+        "verified": false,
+        "confidence": "medium"
+      },
+      "workflow": {
+        "status": "draft",
+        "reviewer": null,
+        "reviewNote": "Imported from XHS. Needs editorial review and fact checking before publishing.",
+        "importedFrom": "xhs-spider",
+        "updatedAt": "2026-06-10T14:34:03Z"
+      }
+    },
+    {
+      "id": "xhs-69e825d2000000001a026c2a",
+      "module": "outdoor",
+      "title": "海口希尔顿 居住体验",
+      "summary": "🧳首先入住体验不错！ 到酒店后前台升级了正面观海位，并且从下车后就有人主动帮忙搬行李，到入住后服务员的态度都特别好。 🗺️地理位置我觉得不算特别远，我本来打算住喜来登或者万豪的，但是希尔顿我觉得离市中心更近一点！但是外卖依然点不到好吃的。 🍴所以晚餐还是叫了客房送餐，因为送晚了还多给我送了一大盘水果和一个椰子。送餐服务态度特别好。 🏝️整个酒店有三四个游泳...",
+      "tags": [
+        "海口",
+        "旅行",
+        "小红书",
+        "海南",
+        "海口酒店",
+        "海口鲁能希尔顿",
+        "拍照",
+        "餐厅",
+        "酒店",
+        "一天"
+      ],
+      "season": "autumn",
+      "city": "海口",
+      "source": {
+        "type": "xiaohongshu",
+        "title": "海口希尔顿 居住体验",
+        "url": "https://www.xiaohongshu.com/explore/69e825d2000000001a026c2a?xsec_token=ABbxsZpesxJhL0Wfl2VJXez-j8Y_MnyCpwoSqMN39kJDk=",
+        "author": "卷卷",
+        "publishedAt": "2026-04-22"
+      },
+      "route": {
+        "ascent": null,
+        "passBy": [],
+        "descent": null,
+        "duration": null,
+        "difficulty": null
+      },
+      "media": {
+        "coverImage": "http://sns-webpic-qc.xhscdn.com/202606102228/8ec2d1542aa78b0a678c84da0ead7a99/notes_pre_post/1040g3k831v8cpttdig405oodpha3oj23kmh3d3o!nd_dft_wlteh_webp_3",
+        "gallery": [
+          "http://sns-webpic-qc.xhscdn.com/202606102228/8ec2d1542aa78b0a678c84da0ead7a99/notes_pre_post/1040g3k831v8cpttdig405oodpha3oj23kmh3d3o!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/2fd0f156b496c54c722a38690bad5ea1/notes_pre_post/1040g3k831v8cpttdig6g5oodpha3oj23cu69498!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/650b366025e637d23935c77520c368d3/notes_pre_post/1040g3k831v8cpttdig4g5oodpha3oj23ikd3fs8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/46812a00484aebb6160155ede97e9e4c/notes_pre_post/1040g3k031v8cr2b9iqhg5oodpha3oj23guqi7u8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/1eaabf90e1d7db3e921837719b14130d/note_pre_post_uhdr/1040g3r031v8cptr3iq205oodpha3oj23ca4s978!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/c66abe323341ba2dfb251891e1824f33/notes_pre_post/1040g3k031v8cr2b9iqe05oodpha3oj2357sv998!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/eb9595d45f0cf1770dac83327dc4e909/notes_pre_post/1040g3k031v8cr2b9iqeg5oodpha3oj23elaavl8!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/fcac4b070a59f5d94c7fa2ab04522aa9/notes_pre_post/1040g3k831v8cpttdig5g5oodpha3oj23e52qmf0!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/0c4d26da5b50a0ddff90211d2ea9c394/note_pre_post_uhdr/1040g3r031v8cptr3iq2g5oodpha3oj23ae0t9t8!nd_dft_wgth_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/8982cc48f28de5b61ce77b1568b76e60/notes_pre_post/1040g3k831v8cpttdig605oodpha3oj23m8p0abo!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/e53820d683496bf5b985ce863b0f9449/notes_pre_post/1040g3k031v8cr2b9iqf05oodpha3oj23hs5dj4o!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/df6f0b0f7aae9f657bc9c636969aab68/notes_pre_post/1040g3k031v8cr2b9iqfg5oodpha3oj23n5lp8vo!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/7dfcfe398f48380159e138d76030f8bd/notes_pre_post/1040g3k031v8cr2b9iqg05oodpha3oj23um1am60!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/e566446205b48a1fd7eb537c90716834/notes_pre_post/1040g3k031v8cr2b9iqgg5oodpha3oj23qae2mko!nd_dft_wgth_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/5a5db6e6ea261d20cbae92b7a2f147df/notes_pre_post/1040g3k831v8cpttdig505oodpha3oj23c6mtsf0!nd_dft_wlteh_webp_3",
+          "http://sns-webpic-qc.xhscdn.com/202606102228/677c69efd5fabaae2fac01cd7e343307/note_pre_post_uhdr/1040g3r031v8cptr3iq305oodpha3oj2301aeps8!nd_dft_wlteh_webp_3"
+        ]
+      },
+      "notes": {
+        "experience": "🧳首先入住体验不错！ 到酒店后前台升级了正面观海位，并且从下车后就有人主动帮忙搬行李，到入住后服务员的态度都特别好。 🗺️地理位置我觉得不算特别远，我本来打算住喜来登或者万豪的，但是希尔顿我觉得离市中心更近一点！但是外卖依然点不到好吃的。 🍴所以晚餐还是叫了客房送餐，因为送晚了还多给我送了一大盘水果和一个椰子。送餐服务态度特别好。 🏝️整个酒店有三四个游泳池，从浅水区到深水区都有！酒店从游乐设施到吃饭餐厅都有很多，我觉得光是探索酒店就可以玩一天。并且好像还有挺多体验课的。 但是酒店私人海滩确实拍照不太美！颜色很暗沉！拍照最出片的应该是小秋千和深水区。 👧🏻如果是带小孩来的话，酒店浅水区和水中游乐设施区都还挺大的，还有很多老师一起带着做游戏。 #海南[话题]# #海口[话题]# #海口酒店[话题]##海口鲁能希尔顿[话题]#\n\nXHS metrics: likes=54, collects=21, comments=6, shares=32."
+      },
+      "facets": {
+        "categories": [
+          "attraction",
+          "food",
+          "hotel",
+          "intent"
+        ],
+        "intentSignals": [
+          "photo",
+          "food"
+        ],
+        "sourceMetrics": {
+          "likes": 54,
+          "collects": 21,
+          "comments": 6,
+          "shares": 32
+        }
+      },
+      "quality": {
+        "verified": false,
+        "confidence": "low"
+      },
+      "workflow": {
+        "status": "draft",
+        "reviewer": null,
+        "reviewNote": "Imported from XHS. Needs editorial review and fact checking before publishing.",
+        "importedFrom": "xhs-spider",
+        "updatedAt": "2026-06-10T14:34:03Z"
+      }
+    }
+  ],
+  "filter": {
+    "city": "海口",
+    "strict": true,
+    "source": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-import-candidates-1d90514b-20260610-222857-rebuilt.json",
+    "kept": 4,
+    "removed": 2,
+    "removedEntries": [
+      {
+        "id": "xhs-69ca49a9000000002102d65d",
+        "title": "天涯小镇",
+        "reason": "city_not_mentioned"
+      },
+      {
+        "id": "xhs-69b2958f000000001b01d6c1",
+        "title": "万宁淡季3天2晚（真正度假不劳累）人均2k攻略",
+        "reason": "other_city:三亚,万宁"
+      }
+    ]
+  }
+}

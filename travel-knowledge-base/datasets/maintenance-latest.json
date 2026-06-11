@@ -1,0 +1,310 @@
+{
+  "updatedAt": "2026-06-10T14:37:00Z",
+  "type": "travel_kb_maintenance_audit",
+  "staleThresholdDays": 180,
+  "stale": [],
+  "highUnverified": [
+    {
+      "path": "wiki/sources/xiaohongshu/6852d6be000000002001bf67.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/686bc8550000000017031a00.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/693fdfda000000001b025540.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6944f8bd000000001e008ac5.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69466b7e000000001e00335e.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6947cb16000000001e02ed4b.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/694a3407000000000d039b6c.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6958dba80000000021031d93.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6958f1c2000000001e0329c0.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6958fc5c000000001e0351c2.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/695e1a1a0000000022023cdf.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/695f8e24000000002203294f.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6965f7d4000000000a029565.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69786b37000000001a02c698.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6985d9fa000000001a034f09.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/699a96fe000000000b010432.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/699c1cf9000000001a01c0c8.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69a04949000000001b01f015.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69a0f7d6000000000d009b65.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69a1a5d60000000015038be5.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69ad4919000000002603daa3.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69b555c1000000001a02bed8.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69b7f94c0000000023017e7d.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69bbccad00000000220025de.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69c39567000000002102c5cb.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69c4d3ad0000000021005ede.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69c524ee000000001e00c637.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69c737f60000000022027271.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69d0a037000000002103b4a0.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69d1a2fa000000002301feb6.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69d51e08000000001d01f55c.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69db68f70000000023023771.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69f3273b0000000022028890.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69f45a71000000001a02c9fb.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69f4aec70000000037035be8.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69f5b001000000001f00601a.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69f98338000000003601db6b.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69fd2dc90000000035030e59.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69fd5ceb000000001e00e49c.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6a12ff6d0000000007020cd1.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6a167d110000000008002322.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6a1d6cdb000000003701d241.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6a24139b000000002103dd37.md",
+      "confidence": "high",
+      "reason": "high XHS engagement but no official/stable verification",
+      "action": "keep_as_mixed_or_needs_verification"
+    }
+  ],
+  "potentialConflicts": [
+    {
+      "path": "wiki/sources/xiaohongshu/6849564b00000000210082b5.md",
+      "reason": "contains both low-crowd and crowded/avoidance signals",
+      "action": "split by time window or re-check recent sources"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/686bc8550000000017031a00.md",
+      "reason": "contains both low-crowd and crowded/avoidance signals",
+      "action": "split by time window or re-check recent sources"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69466b7e000000001e00335e.md",
+      "reason": "contains both low-crowd and crowded/avoidance signals",
+      "action": "split by time window or re-check recent sources"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69ad4919000000002603daa3.md",
+      "reason": "contains both low-crowd and crowded/avoidance signals",
+      "action": "split by time window or re-check recent sources"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/69d51e08000000001d01f55c.md",
+      "reason": "contains both low-crowd and crowded/avoidance signals",
+      "action": "split by time window or re-check recent sources"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6a29371b000000001503d8d0.md",
+      "reason": "contains both low-crowd and crowded/avoidance signals",
+      "action": "split by time window or re-check recent sources"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6a2946e9000000001702d7b0.md",
+      "reason": "contains both low-crowd and crowded/avoidance signals",
+      "action": "split by time window or re-check recent sources"
+    },
+    {
+      "path": "wiki/sources/xiaohongshu/6a294845000000001503ffff.md",
+      "reason": "contains both low-crowd and crowded/avoidance signals",
+      "action": "split by time window or re-check recent sources"
+    }
+  ],
+  "coverageGaps": [],
+  "report": "wiki/maintenance/2026-06-10-audit.md"
+}

@@ -1,0 +1,8 @@
+{
+  "importedAt": "2026-05-27T14:51:22Z",
+  "sourceQuery": "杭州周边露营 小众 风景好",
+  "entryCount": 18,
+  "source": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-import-candidates-f1cafbda-20260527-224909.json",
+  "target": "raw/sources/xiaohongshu/2026-05-27-hangzhou-nearby-camping/xhs-import-candidates-f1cafbda-20260527-224909.json",
+  "status": "ingested_as_draft_topic"
+}

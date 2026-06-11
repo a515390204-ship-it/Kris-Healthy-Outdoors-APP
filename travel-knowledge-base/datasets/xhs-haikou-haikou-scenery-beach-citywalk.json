@@ -1,0 +1,118 @@
+{
+  "updatedAt": "2026-06-10T14:35:00Z",
+  "type": "travel_city_xhs_batch",
+  "city": "海口",
+  "topic": "海口景区美景：骑楼老街、火山口、假日海滩、citywalk",
+  "batch": "2026-06-10-haikou-attractions-citywalk",
+  "sources": [
+    "raw/sources/xiaohongshu/2026-06-10-haikou-attractions-citywalk/xhs-haikou-attractions-reviewed-20260610.json",
+    "raw/sources/xiaohongshu/2026-06-10-haikou-attractions-citywalk/xhs-raw-b95233b8-20260610-222728.json"
+  ],
+  "confidence": "mixed",
+  "verified": false,
+  "entryCount": 4,
+  "categoryCounts": {
+    "route": 3,
+    "attraction": 2,
+    "food": 1,
+    "intent": 1
+  },
+  "intentCounts": {
+    "photo": 1,
+    "food": 1,
+    "relax": 1
+  },
+  "entries": [
+    {
+      "id": "xhs-6a24139b000000002103dd37",
+      "title": "6.6 海口世纪大烧💜🩷❤🧡💛",
+      "city": "海口",
+      "categories": [
+        "route"
+      ],
+      "intentSignals": [],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6a24139b000000002103dd37?xsec_token=ABI7Cb3INXyFDa9XHRntBew9J6day0iyHY4Th7SZifVPU=",
+      "summary": "美到无以言表😭 祝大家六六大顺[回招呼] #海口[话题]# #日落[话题]# #日落爱好者[话题]# #日落后出发[话题]# #一起看晚霞[话题]# #晚霞[话题]# #晚霞收集者[话题]# #海口晚霞[话题]# #小红书影像激励计划[话题]# #抬头看艺术[话题]#",
+      "metrics": {
+        "likes": 93000,
+        "collects": 8898,
+        "comments": 6446,
+        "shares": 40000
+      },
+      "imageCount": 14,
+      "wikiSource": "wiki/sources/xiaohongshu/6a24139b000000002103dd37.md"
+    },
+    {
+      "id": "xhs-6944f8bd000000001e008ac5",
+      "title": "163 46｜🌴",
+      "city": "海口",
+      "categories": [
+        "route"
+      ],
+      "intentSignals": [],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6944f8bd000000001e008ac5?xsec_token=ABmSMQjBReWIBwibUR2IwxLqQNnLrCf-1OFftJ-L-EWOw=",
+      "summary": "📍海口云洞图书馆#ootd[话题]# #有种不在国内的美[话题]#",
+      "metrics": {
+        "likes": 21000,
+        "collects": 3571,
+        "comments": 305,
+        "shares": 977
+      },
+      "imageCount": 9,
+      "wikiSource": "wiki/sources/xiaohongshu/6944f8bd000000001e008ac5.md"
+    },
+    {
+      "id": "xhs-699c1cf9000000001a01c0c8",
+      "title": "海岛日记🏝️",
+      "city": "海口",
+      "categories": [
+        "attraction"
+      ],
+      "intentSignals": [],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/699c1cf9000000001a01c0c8?xsec_token=ABPz3pXGCED9eD5u0xlgsXf6624CayoPWkkKXvoJrf2zU=",
+      "summary": "海口的一些记录…#吹海边的风[话题]# #人生建议去海岛[话题]# #海边[话题]# #生活碎片[话题]# #日常生活[话题]#",
+      "metrics": {
+        "likes": 5428,
+        "collects": 917,
+        "comments": 72,
+        "shares": 373
+      },
+      "imageCount": 10,
+      "wikiSource": "wiki/sources/xiaohongshu/699c1cf9000000001a01c0c8.md"
+    },
+    {
+      "id": "xhs-69f98338000000003601db6b",
+      "title": "海口小众旅行地🥥真的太“阔以”了‼️",
+      "city": "海口",
+      "categories": [
+        "attraction",
+        "food",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "relax"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69f98338000000003601db6b?xsec_token=ABxWEjkyAZqWTF2tNm7JDIGnwRZa5XZz2YpvJPnhIt6U0=",
+      "summary": "五一与其在人堆里大眼瞪小眼，不如来海口当个“闲人”！🌊 海南本地人拍胸脯保证：来海口就得“阔”一点——阔开视野，阔步慢行。 这次五一，我解锁了一条超小众的椰城漫游路线，主打一个松弛感拉满～👇 📍 海口火山口国家地质公园 钻进万年前的火山口，顺着铁梯往上爬，湿润的热带雨林风扑面而来。 💡 登顶222.8米的海口之巅，琼州海峡和万亩荔枝园直接撞进眼里！这种无死...",
+      "metrics": {
+        "likes": 5022,
+        "collects": 1129,
+        "comments": 203,
+        "shares": 104
+      },
+      "imageCount": 1,
+      "wikiSource": "wiki/sources/xiaohongshu/69f98338000000003601db6b.md"
+    }
+  ]
+}

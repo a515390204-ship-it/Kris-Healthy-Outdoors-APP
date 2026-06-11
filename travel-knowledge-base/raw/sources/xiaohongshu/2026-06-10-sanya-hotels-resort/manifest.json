@@ -1,0 +1,16 @@
+{
+  "importedAt": "2026-06-10T14:36:44Z",
+  "sourceQuery": "三亚酒店 三亚住宿 海棠湾 亚龙湾 亲子酒店 度假",
+  "city": "三亚",
+  "topic": "三亚住宿 hotels：海棠湾、亚龙湾、亲子度假",
+  "entryCount": 7,
+  "sources": {
+    "candidate": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-sanya-hotels-reviewed-20260610.json",
+    "raw": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\raw\\xhs-raw-b6e9ccac-20260610-223026.json"
+  },
+  "targets": [
+    "raw/sources/xiaohongshu/2026-06-10-sanya-hotels-resort/xhs-sanya-hotels-reviewed-20260610.json",
+    "raw/sources/xiaohongshu/2026-06-10-sanya-hotels-resort/xhs-raw-b6e9ccac-20260610-223026.json"
+  ],
+  "status": "ingested_as_unverified_xhs_evidence"
+}

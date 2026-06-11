@@ -1,0 +1,16 @@
+{
+  "importedAt": "2026-06-09T16:10:30Z",
+  "sourceQuery": "杭州景点 美景 西湖 灵隐寺 citywalk",
+  "city": "杭州",
+  "topic": "杭州景点美景：西湖、灵隐寺、citywalk",
+  "entryCount": 6,
+  "sources": {
+    "candidate": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-import-candidates-8b04a71c-20260610-000900.json",
+    "raw": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\raw\\xhs-raw-8b04a71c-20260610-000900.json"
+  },
+  "targets": [
+    "raw/sources/xiaohongshu/2026-06-10-hangzhou-attractions-citywalk/xhs-import-candidates-8b04a71c-20260610-000900.json",
+    "raw/sources/xiaohongshu/2026-06-10-hangzhou-attractions-citywalk/xhs-raw-8b04a71c-20260610-000900.json"
+  ],
+  "status": "ingested_as_unverified_xhs_evidence"
+}

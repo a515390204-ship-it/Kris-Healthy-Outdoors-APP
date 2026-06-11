@@ -1,0 +1,163 @@
+{
+  "updatedAt": "2026-06-10T14:35:10Z",
+  "type": "travel_city_xhs_batch",
+  "city": "海口",
+  "topic": "海口美食：老爸茶、清补凉、本地觅食",
+  "batch": "2026-06-10-haikou-food-laobacha",
+  "sources": [
+    "raw/sources/xiaohongshu/2026-06-10-haikou-food-laobacha/xhs-haikou-food-reviewed-20260610.json",
+    "raw/sources/xiaohongshu/2026-06-10-haikou-food-laobacha/xhs-raw-fab83223-20260610-222805.json"
+  ],
+  "confidence": "mixed",
+  "verified": false,
+  "entryCount": 6,
+  "categoryCounts": {
+    "food": 2,
+    "route": 5,
+    "intent": 2
+  },
+  "intentCounts": {
+    "food": 2,
+    "relax": 1,
+    "avoid_pitfalls": 1,
+    "intense": 1
+  },
+  "entries": [
+    {
+      "id": "xhs-6a294845000000001503ffff",
+      "title": "谁懂啊😭来海口根本不用做美食攻略",
+      "city": "海口",
+      "categories": [
+        "food",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "food",
+        "relax",
+        "avoid_pitfalls"
+      ],
+      "confidence": "low",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6a294845000000001503ffff?xsec_token=ABZSphsQf7_2YKgnxKT7F9Pneh_oHDHKL5BtGAVy7lReg=",
+      "summary": "▫️早餐就冲一碗海南腌粉 裹满卤汁的细粉配上花生酸菜，咸香入味，嗦粉幸福感直接拉满，开启一天的碳水快乐✨ ▫️老爸茶的快乐谁懂啊 菠萝包、红米肠、虾饺、凤爪…点上一壶茶，慢悠悠吃点心，感受海口独有的松弛慢生活 ▫️下午必须来碗清补凉/糖水 现榨椰奶+满满的配料，冰冰凉凉，是夏天最治愈的味道！老盐芭乐、老盐黄皮也一定要喝，咸甜交织超解腻 ▫️海鲜、粉面、辣汤...",
+      "metrics": {
+        "likes": 0,
+        "collects": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "imageCount": 8,
+      "wikiSource": "wiki/sources/xiaohongshu/6a294845000000001503ffff.md"
+    },
+    {
+      "id": "xhs-6a24139b000000002103dd37",
+      "title": "6.6 海口世纪大烧💜🩷❤🧡💛",
+      "city": "海口",
+      "categories": [
+        "route"
+      ],
+      "intentSignals": [],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6a24139b000000002103dd37?xsec_token=ABI7Cb3INXyFDa9XHRntBew9J6day0iyHY4Th7SZifVPU=",
+      "summary": "美到无以言表😭 祝大家六六大顺[回招呼] #海口[话题]# #日落[话题]# #日落爱好者[话题]# #日落后出发[话题]# #一起看晚霞[话题]# #晚霞[话题]# #晚霞收集者[话题]# #海口晚霞[话题]# #小红书影像激励计划[话题]# #抬头看艺术[话题]#",
+      "metrics": {
+        "likes": 93000,
+        "collects": 8898,
+        "comments": 6446,
+        "shares": 40000
+      },
+      "imageCount": 14,
+      "wikiSource": "wiki/sources/xiaohongshu/6a24139b000000002103dd37.md"
+    },
+    {
+      "id": "xhs-6965f7d4000000000a029565",
+      "title": "Vlog My Mouth｜海口来我家次！老破小大发现！",
+      "city": "海口",
+      "categories": [
+        "route"
+      ],
+      "intentSignals": [],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6965f7d4000000000a029565?xsec_token=ABOetF3XAdJ7kji8rT8ZM5eUpO0sQwW3_3u2P7vjCCjIE=",
+      "summary": "#995[话题]# #大次一口[话题]# #大表哥995[话题]# #MINI城市绕路指南[话题]##宝马MINI[话题]##第一波春菜已经占领菜市场[话题]##华夏烟火巷[话题]##地球村食评人大赛[话题]# #菜市场漫游者[话题]#@mai+（麦家） @吃货薯",
+      "metrics": {
+        "likes": 41000,
+        "collects": 8902,
+        "comments": 823,
+        "shares": 7461
+      },
+      "imageCount": 1,
+      "wikiSource": "wiki/sources/xiaohongshu/6965f7d4000000000a029565.md"
+    },
+    {
+      "id": "xhs-6985d9fa000000001a034f09",
+      "title": "回海口啦！",
+      "city": "海口",
+      "categories": [
+        "route"
+      ],
+      "intentSignals": [],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6985d9fa000000001a034f09?xsec_token=ABed_hwVVdROuW3cJuvEZ3JHitL5cB7f9PC4hsbPNMhsQ=",
+      "summary": "回海口啦！",
+      "metrics": {
+        "likes": 30000,
+        "collects": 5372,
+        "comments": 1117,
+        "shares": 4399
+      },
+      "imageCount": 1,
+      "wikiSource": "wiki/sources/xiaohongshu/6985d9fa000000001a034f09.md"
+    },
+    {
+      "id": "xhs-6944f8bd000000001e008ac5",
+      "title": "163 46｜🌴",
+      "city": "海口",
+      "categories": [
+        "route"
+      ],
+      "intentSignals": [],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6944f8bd000000001e008ac5?xsec_token=ABmSMQjBReWIBwibUR2IwxLqQNnLrCf-1OFftJ-L-EWOw=",
+      "summary": "📍海口云洞图书馆#ootd[话题]# #有种不在国内的美[话题]#",
+      "metrics": {
+        "likes": 21000,
+        "collects": 3571,
+        "comments": 305,
+        "shares": 977
+      },
+      "imageCount": 9,
+      "wikiSource": "wiki/sources/xiaohongshu/6944f8bd000000001e008ac5.md"
+    },
+    {
+      "id": "xhs-69f4aec70000000037035be8",
+      "title": "24h不睡觉在海南海口连吃17顿，拿捏",
+      "city": "海口",
+      "categories": [
+        "food",
+        "intent"
+      ],
+      "intentSignals": [
+        "food",
+        "intense"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69f4aec70000000037035be8?xsec_token=ABNam9XpxnA-XsVsZHBYKeZPM6tSuBr3VT7nJJdxIKW7U=",
+      "summary": "#美食特种兵[话题]# #特种兵旅游[话题]# #我是美食活地图[话题]# #海口[话题]# #五一出行问活人[话题]#",
+      "metrics": {
+        "likes": 5584,
+        "collects": 2139,
+        "comments": 464,
+        "shares": 1794
+      },
+      "imageCount": 1,
+      "wikiSource": "wiki/sources/xiaohongshu/69f4aec70000000037035be8.md"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "updatedAt": "2026-06-10T14:35:58Z",
+  "type": "travel_city_xhs_batch",
+  "city": "海口",
+  "topic": "海口住宿 family-seaview：海景酒店、亲子、度假",
+  "batch": "2026-06-10-haikou-hotels-family-seaview-v2",
+  "sources": [
+    "raw/sources/xiaohongshu/2026-06-10-haikou-hotels-family-seaview-v2/xhs-haikou-hotels-2-reviewed-20260610.json",
+    "raw/sources/xiaohongshu/2026-06-10-haikou-hotels-family-seaview-v2/xhs-raw-1d90514b-20260610-222857.json"
+  ],
+  "confidence": "draft",
+  "verified": false,
+  "entryCount": 4,
+  "categoryCounts": {
+    "attraction": 3,
+    "food": 3,
+    "hotel": 4,
+    "transport": 2,
+    "route": 2,
+    "intent": 3
+  },
+  "intentCounts": {
+    "photo": 3,
+    "relax": 2,
+    "family": 2,
+    "food": 2
+  },
+  "entries": [
+    {
+      "id": "xhs-69a2b399000000001a027ce0",
+      "title": "海口|400+躺看一线海景，新春遛娃太香了！",
+      "city": "海口",
+      "categories": [
+        "attraction",
+        "food",
+        "hotel",
+        "transport",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "relax",
+        "family"
+      ],
+      "confidence": "medium",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69a2b399000000001a027ce0?xsec_token=ABdqqhv3XYrXIUOJSR3E6JignG0ZWLV6Y-Sms7zt4Am2M=",
+      "summary": "做为每年必刷海南的旅行博主 今年过年带娃在海口住的这家海景酒店🏨 我想安利给所有姐妹👭 🌊 躺看一线海景：房间正对大海，早上被海浪声叫醒，傍晚看橘子海日落 🐰 萌宠互动：酒店里有软fufu的垂耳兔，小朋友可以近距离贴贴 、投喂 🧨 新春氛围拉满：投壶、套圈、钓锦鲤、新年主题打卡墙，年味十足 🏊 泳池派对嗨翻天：超大户外泳池+椰林环绕，白天玩水，晚上看烟花🎆...",
+      "metrics": {
+        "likes": 237,
+        "collects": 80,
+        "comments": 64,
+        "shares": 143
+      },
+      "imageCount": 18,
+      "wikiSource": "wiki/sources/xiaohongshu/69a2b399000000001a027ce0.md"
+    },
+    {
+      "id": "xhs-6986a02100000000150385e3",
+      "title": "无标题",
+      "city": "海口",
+      "categories": [
+        "hotel"
+      ],
+      "intentSignals": [],
+      "confidence": "low",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6986a02100000000150385e3?xsec_token=AB04puq7v0p1HhCPcXFNhk6ODhdTUY2SztNCwq6o-BB5M=",
+      "summary": "求真实入住后的朋友们推荐海口五星级酒店哪个好，想看海。#海口酒店[话题]#",
+      "metrics": {
+        "likes": 23,
+        "collects": 16,
+        "comments": 40,
+        "shares": 5
+      },
+      "imageCount": 1,
+      "wikiSource": "wiki/sources/xiaohongshu/6986a02100000000150385e3.md"
+    },
+    {
+      "id": "xhs-69cc6153000000001d01b7de",
+      "title": "人少景美不费妈🏝️海边躺平式带娃就选这❗️",
+      "city": "海口",
+      "categories": [
+        "attraction",
+        "food",
+        "hotel",
+        "transport",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "relax",
+        "family"
+      ],
+      "confidence": "medium",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69cc6153000000001d01b7de?xsec_token=AB4Ruf9o1SnBNyd81nuxgFJ480GspQMn0YSsh_09F81OI=",
+      "summary": "带爱挖沙爱玩水的Coco来海口，为了孩子玩开心+不费家长，行程基本都在西海岸一带，开启海边挖沙深度游🌊 海口沙滩很细，对比酒店直通的海边，更推荐西秀海滩公园、五源河湿地公园，海水更干净🏖️ 上午9:00-12:00和下午16:00-18:30更适合带娃去海边，不晒也不凉👧🏻 📝分享真实体验和详细攻略给大家 【住宿】 🏨分别住了西海岸大酒店和海口万豪，两家整...",
+      "metrics": {
+        "likes": 166,
+        "collects": 235,
+        "comments": 21,
+        "shares": 102
+      },
+      "imageCount": 17,
+      "wikiSource": "wiki/sources/xiaohongshu/69cc6153000000001d01b7de.md"
+    },
+    {
+      "id": "xhs-69e825d2000000001a026c2a",
+      "title": "海口希尔顿 居住体验",
+      "city": "海口",
+      "categories": [
+        "attraction",
+        "food",
+        "hotel",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food"
+      ],
+      "confidence": "low",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69e825d2000000001a026c2a?xsec_token=ABbxsZpesxJhL0Wfl2VJXez-j8Y_MnyCpwoSqMN39kJDk=",
+      "summary": "🧳首先入住体验不错！ 到酒店后前台升级了正面观海位，并且从下车后就有人主动帮忙搬行李，到入住后服务员的态度都特别好。 🗺️地理位置我觉得不算特别远，我本来打算住喜来登或者万豪的，但是希尔顿我觉得离市中心更近一点！但是外卖依然点不到好吃的。 🍴所以晚餐还是叫了客房送餐，因为送晚了还多给我送了一大盘水果和一个椰子。送餐服务态度特别好。 🏝️整个酒店有三四个游泳...",
+      "metrics": {
+        "likes": 54,
+        "collects": 21,
+        "comments": 6,
+        "shares": 32
+      },
+      "imageCount": 16,
+      "wikiSource": "wiki/sources/xiaohongshu/69e825d2000000001a026c2a.md"
+    }
+  ]
+}

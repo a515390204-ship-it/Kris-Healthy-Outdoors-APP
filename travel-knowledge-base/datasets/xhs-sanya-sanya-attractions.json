@@ -1,0 +1,223 @@
+{
+  "updatedAt": "2026-06-10T14:36:27Z",
+  "type": "travel_city_xhs_batch",
+  "city": "三亚",
+  "topic": "三亚景区 attractions：亚龙湾、蜈支洲岛、天涯海角、海棠湾",
+  "batch": "2026-06-10-sanya-attractions-bays",
+  "sources": [
+    "raw/sources/xiaohongshu/2026-06-10-sanya-attractions-bays/xhs-sanya-attractions-reviewed-20260610.json",
+    "raw/sources/xiaohongshu/2026-06-10-sanya-attractions-bays/xhs-raw-ddfd101d-20260610-222933.json"
+  ],
+  "confidence": "mixed",
+  "verified": false,
+  "entryCount": 6,
+  "categoryCounts": {
+    "attraction": 6,
+    "food": 6,
+    "hotel": 4,
+    "transport": 2,
+    "route": 6,
+    "intent": 6
+  },
+  "intentCounts": {
+    "photo": 6,
+    "food": 6,
+    "relax": 6,
+    "budget": 5,
+    "family": 3,
+    "intense": 3,
+    "avoid_pitfalls": 3,
+    "couple": 1
+  },
+  "entries": [
+    {
+      "id": "xhs-6a292dc50000000021023743",
+      "title": "📍三亚待了6天（被宰已回）内容很脏但很",
+      "city": "三亚",
+      "categories": [
+        "attraction",
+        "food",
+        "hotel",
+        "transport",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "relax",
+        "budget",
+        "family"
+      ],
+      "confidence": "low",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6a292dc50000000021023743?xsec_token=ABZSphsQf7_2YKgnxKT7F9PnkVw4NiDw_8XZGrXYiuJug=",
+      "summary": "1、独自来三亚的女生，别随便找网上的旅游搭子！不仅容易被骗吃骗喝，人身安全也没保障，出门游玩安全第一 2、纠结三个海岛的不用纠结！西岛、蜈支洲岛、分界洲岛海景差别不大，时间有限选一个就行；西岛适合拍照，体验渔村生活；蜈支洲岛水上项目专业好玩；分界洲岛超适合亲子，能近距离看魔鬼鱼 3、逛海棠湾免税店别瞎逛！提前列好清单，线上线下比价，领好平台新人券和满减券，...",
+      "metrics": {
+        "likes": 2,
+        "collects": 3,
+        "comments": 0,
+        "shares": 2
+      },
+      "imageCount": 3,
+      "wikiSource": "wiki/sources/xiaohongshu/6a292dc50000000021023743.md"
+    },
+    {
+      "id": "xhs-6a2946e9000000001702d7b0",
+      "title": "📸来三亚，照着这条路线玩，不踩坑！",
+      "city": "三亚",
+      "categories": [
+        "attraction",
+        "food",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "relax",
+        "intense",
+        "avoid_pitfalls"
+      ],
+      "confidence": "low",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6a2946e9000000001702d7b0?xsec_token=ABZSphsQf7_2YKgnxKT7F9PrzUWdp0VSh07mnPBF9Uomc=",
+      "summary": "😭照片真的拍不出三亚的美，天气好的时候，海水蓝得像出了国。 📍Day1 椰梦长廊🌅 入住三亚湾，傍晚去椰梦长廊看日落。17:30-18:30超出片，记得带驱蚊喷雾。 📍Day2 亚龙湾🌊 必打卡！海水清澈、沙滩细软。体验浮潜、摩托艇、拖伞。穿浅色衣服拍照超好看，防晒一定要做好☀️。 📍Day3 蜈支洲岛🔥 超美的地方！被称为“中国版马尔代夫”，海水蓝到离谱...",
+      "metrics": {
+        "likes": 2,
+        "collects": 1,
+        "comments": 0,
+        "shares": 0
+      },
+      "imageCount": 3,
+      "wikiSource": "wiki/sources/xiaohongshu/6a2946e9000000001702d7b0.md"
+    },
+    {
+      "id": "xhs-6a2942ab000000001603cd99",
+      "title": "被闺蜜做的三亚攻略满意哭了😭超详细！||",
+      "city": "三亚",
+      "categories": [
+        "attraction",
+        "food",
+        "hotel",
+        "transport",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "relax",
+        "budget",
+        "family",
+        "couple",
+        "intense"
+      ],
+      "confidence": "low",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6a2942ab000000001603cd99?xsec_token=ABZSphsQf7_2YKgnxKT7F9PsmfnX9RRbat3JyeEzHA0Ps=",
+      "summary": "假期要去三亚旅游了，闺蜜就熬夜整理了这一份三亚5天4晚游玩攻略，真的超级详细，我的闺闺真的太棒了，这份攻略简直yyds，精华景点和景点预约、旅游建议、交通、住宿、特色美食都安排上了，现在分享给宝子们，有了这份攻略真的能躺玩三亚啦~ ✅️三亚旅游行程安排 🔶Day1：天涯海角——南山文化旅游区——椰梦长廊——第一市场夜市 🔶Day2：西岛——三亚千古情景区—...",
+      "metrics": {
+        "likes": 2,
+        "collects": 0,
+        "comments": 0,
+        "shares": 0
+      },
+      "imageCount": 7,
+      "wikiSource": "wiki/sources/xiaohongshu/6a2942ab000000001603cd99.md"
+    },
+    {
+      "id": "xhs-69466b7e000000001e00335e",
+      "title": "万宁最新island trip🏖️👙来度假一定要参考",
+      "city": "三亚",
+      "categories": [
+        "attraction",
+        "food",
+        "hotel",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "relax",
+        "budget",
+        "avoid_pitfalls"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69466b7e000000001e00335e?xsec_token=AB1FPZgQt1arrXowvFso4FP352kuDYIt5WAmfVp_icr6c=",
+      "summary": "万宁回忆录 有种不在国内的美🌺 给大家整理出来“十几万人在看”的万宁适合年轻人的旅游攻略 - 🏨住宿 📍enjoyvilla：泳池、外观超美、有免费接送，但房间有点小 📍礼纪栖云告营地民宿：比较推荐，距离没门咖啡很近，是东南亚雨林风 🌟第一天 石梅湾沿海沙滩吧-海边拍照 ✔️石梅湾最美海滩往下走一条街全是出片的沙滩吧：凤凰九里书屋、goofydog、cas...",
+      "metrics": {
+        "likes": 19000,
+        "collects": 14000,
+        "comments": 284,
+        "shares": 8876
+      },
+      "imageCount": 11,
+      "wikiSource": "wiki/sources/xiaohongshu/69466b7e000000001e00335e.md"
+    },
+    {
+      "id": "xhs-69d51e08000000001d01f55c",
+      "title": "五一反向旅游！愿意安利1w次的海滨城市：陵水",
+      "city": "三亚",
+      "categories": [
+        "attraction",
+        "food",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "relax",
+        "budget",
+        "family",
+        "intense"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69d51e08000000001d01f55c?xsec_token=ABzHMQKHD4324qVn7RpIsYNCc2mK7Mw9NOV1FM8kFBzVo=",
+      "summary": "四五月的陵水简直就是国内度假天花板 风景美，游客少，物价低 关键是海水品质一点都不输三亚 整理了陵水四天三晚超好玩的行程，可以直接抄作业~ 📝DAY1：清水湾椰林栈道-自由灯塔-莱福士大草坪 ▫️清水湾椰林栈道：清水湾必打卡的免费栈道，成排的椰林特别美 ▫️自由灯塔：爆火的电影取景地，20r就可以坐上小火车，吹着海风很惬意 ▫️莱福士大草坪：视觉盛宴，一望...",
+      "metrics": {
+        "likes": 7839,
+        "collects": 6537,
+        "comments": 394,
+        "shares": 5541
+      },
+      "imageCount": 16,
+      "wikiSource": "wiki/sources/xiaohongshu/69d51e08000000001d01f55c.md"
+    },
+    {
+      "id": "xhs-69ad4919000000002603daa3",
+      "title": "三亚4天3晚（真正度假不劳累）3月可参考",
+      "city": "三亚",
+      "categories": [
+        "attraction",
+        "food",
+        "hotel",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo",
+        "food",
+        "relax",
+        "budget",
+        "avoid_pitfalls"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69ad4919000000002603daa3?xsec_token=ABYEyrpnH5pV9eGBM_6kCprrzo5p0YDs0amlcvzC6ahl4=",
+      "summary": "淡季错峰来三亚真的太好玩了！ 人少景美，热门机位根本不用排长队 随便一拍就是人生照片~ 整理了三亚四天三晚真正度假不劳累行程，有需要的小宝直接抄作业！ - 📝DAY1：西岛-天涯小镇 🏄‍♀️西岛：文艺风小岛，有很多出片的打卡点：歪脖子树、泰文木牌、珊瑚石墙、孤独的树 🏄‍♀️天涯小镇：蓝白色的漫画小镇，天气好的时候随便走进一家临海咖啡店都可以看到超美的海...",
+      "metrics": {
+        "likes": 4645,
+        "collects": 2017,
+        "comments": 95,
+        "shares": 663
+      },
+      "imageCount": 10,
+      "wikiSource": "wiki/sources/xiaohongshu/69ad4919000000002603daa3.md"
+    }
+  ]
+}

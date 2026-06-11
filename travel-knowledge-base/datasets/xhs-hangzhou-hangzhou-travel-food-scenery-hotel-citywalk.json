@@ -1,0 +1,197 @@
+{
+  "updatedAt": "2026-06-09T16:10:21Z",
+  "type": "travel_city_xhs_batch",
+  "city": "杭州",
+  "topic": "杭州综合旅行：美食、美景、酒店、citywalk",
+  "batch": "2026-06-10-hangzhou-general-travel",
+  "sources": [
+    "raw/sources/xiaohongshu/2026-06-10-hangzhou-general-travel/xhs-import-candidates-bcc9c398-20260610-000602-fixed.json",
+    "raw/sources/xiaohongshu/2026-06-10-hangzhou-general-travel/xhs-raw-bcc9c398-20260610-000602.json"
+  ],
+  "confidence": "mixed",
+  "verified": false,
+  "entryCount": 7,
+  "categoryCounts": {
+    "food": 5,
+    "attraction": 4,
+    "route": 3,
+    "intent": 4,
+    "transport": 1
+  },
+  "intentCounts": {
+    "photo": 2,
+    "food": 4,
+    "budget": 1
+  },
+  "entries": [
+    {
+      "id": "xhs-69c4d3ad0000000021005ede",
+      "title": "今天在杭州吃了一顿好吃的爆辣冒菜！！",
+      "city": "杭州",
+      "categories": [
+        "food"
+      ],
+      "intentSignals": [
+        "photo",
+        "food"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69c4d3ad0000000021005ede?xsec_token=ABsuAB2_E1Q0iPRS0yyq94En9tGa40FY1Y08dmuk_gZiQ=",
+      "summary": "#心动打卡指南[话题]# #寻味烟火气[话题]# #冒菜[话题]# #杭州[话题]#",
+      "metrics": {
+        "likes": 41000,
+        "collects": 5174,
+        "comments": 1697,
+        "shares": 7601
+      },
+      "imageCount": 1,
+      "wikiSource": "wiki/sources/xiaohongshu/69c4d3ad0000000021005ede.md"
+    },
+    {
+      "id": "xhs-6958dba80000000021031d93",
+      "title": "无标题",
+      "city": "杭州",
+      "categories": [
+        "attraction"
+      ],
+      "intentSignals": [],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6958dba80000000021031d93?xsec_token=AB3lPkTrTaNpfkMb0OLAp0TCknojVLTgusn2mD7UI7mQw=",
+      "summary": "西湖水",
+      "metrics": {
+        "likes": 32000,
+        "collects": 2035,
+        "comments": 445,
+        "shares": 925
+      },
+      "imageCount": 2,
+      "wikiSource": "wiki/sources/xiaohongshu/6958dba80000000021031d93.md"
+    },
+    {
+      "id": "xhs-69c39567000000002102c5cb",
+      "title": "这口鸡腿饭，可太香了！",
+      "city": "杭州",
+      "categories": [
+        "food"
+      ],
+      "intentSignals": [
+        "food"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69c39567000000002102c5cb?xsec_token=ABjDpSEvCGgkSIMJzKlEgh1lIr7tZ_OGvA7RSM8cqXmnQ=",
+      "summary": "开团秒跟的白姐，一呼就应的大脑袋，以及花8.8换来地址的我，都吃的很满足！#明星不止AB面[话题]#",
+      "metrics": {
+        "likes": 18000,
+        "collects": 3536,
+        "comments": 727,
+        "shares": 6217
+      },
+      "imageCount": 1,
+      "wikiSource": "wiki/sources/xiaohongshu/69c39567000000002102c5cb.md"
+    },
+    {
+      "id": "xhs-6a167d110000000008002322",
+      "title": "⊹꙳ ⊹ ˖｡：弹奏夏日序曲",
+      "city": "杭州",
+      "categories": [
+        "attraction",
+        "food",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6a167d110000000008002322?xsec_token=ABv6544iPsdTaIKK8ORZOtoWBx_H9ES1y28wdpj-IhuhA=",
+      "summary": "忽而今夏， 夏是远道而来的浪漫与热情， 鸟鸣微风，且听风吟🪽🍀 。· ₊ 西溪湿地的初夏就是这样—— 鸟藏在芦苇里叫，风从水面上慢慢推过来， 一切都是“热烈又温柔”的样子。 夏天的前奏是蝉鸣，是水声，是风吹树叶的沙沙声。 对我来说，还有一个音符——噗噗。 是按压榄菊驱蚊液喷头的声音，清脆又安心。 浪漫的夏天也有小插曲：蚊子。 所以我刚走进湿地的第一步，就掏...",
+      "metrics": {
+        "likes": 11000,
+        "collects": 2403,
+        "comments": 463,
+        "shares": 1135
+      },
+      "imageCount": 9,
+      "wikiSource": "wiki/sources/xiaohongshu/6a167d110000000008002322.md"
+    },
+    {
+      "id": "xhs-69c737f60000000022027271",
+      "title": "感觉是杭州目前top好吃的！！！！！",
+      "city": "杭州",
+      "categories": [
+        "food",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "food"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69c737f60000000022027271?xsec_token=ABWCmvM_5_3B3oVclab3h1bHib2vsEBcSouGn1fHqcs9I=",
+      "summary": "好吃到一周去3次了…… - ✔️薄荷叶脆骨 烤过的脆骨肉咸香鲜嫩🤤搭配薄荷叶超级上头！！ ✔️黄喉酸菜鱼 铺满了青花椒超浓郁[皱眉R]鱼肉入味！黄喉脆嫩弹牙！ ✔️超声波油爆小龙虾 小龙虾个大又饱满！搭配泡面🍜根本停不下来！！ #杭州美食[话题]# #周末去哪儿[话题]# #杭州探店[话题]# #锅儿端[话题]# #杭州旅游[话题]# #杭州旅行[话题]#...",
+      "metrics": {
+        "likes": 7989,
+        "collects": 6801,
+        "comments": 243,
+        "shares": 8074
+      },
+      "imageCount": 11,
+      "wikiSource": "wiki/sources/xiaohongshu/69c737f60000000022027271.md"
+    },
+    {
+      "id": "xhs-69d0a037000000002103b4a0",
+      "title": "灵隐寺真的很灵⚠️但去之前一定要注意",
+      "city": "杭州",
+      "categories": [
+        "attraction",
+        "food",
+        "transport",
+        "route",
+        "intent"
+      ],
+      "intentSignals": [
+        "food",
+        "budget"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/69d0a037000000002103b4a0?xsec_token=AB260g6E8WFSkaLiaTO9NGBGm8r0U_m50Bky46L8lSNh8=",
+      "summary": "刚从灵隐寺回来，真的太灵了✨ 不过提醒大家，去之前要把攻略做细，里面注意事项可不少！ · ⛩️灵隐寺 🕛开放时间：7:30-17:30(17:30停止入场） 🎫门票：免费 🚇交通：地铁3号线到 “黄龙体育中心B口”或“龙翔桥A口”，出站换乘“灵隐专线”公交，20分钟直达 🔔祈福路线：灵隐入口→天王殿→大雄宝殿→观音殿→伽蓝殿→济公殿→药师殿→华严殿→罗汉堂...",
+      "metrics": {
+        "likes": 7819,
+        "collects": 6635,
+        "comments": 59,
+        "shares": 2434
+      },
+      "imageCount": 9,
+      "wikiSource": "wiki/sources/xiaohongshu/69d0a037000000002103b4a0.md"
+    },
+    {
+      "id": "xhs-6a12ff6d0000000007020cd1",
+      "title": "好人认证",
+      "city": "杭州",
+      "categories": [
+        "attraction",
+        "intent"
+      ],
+      "intentSignals": [
+        "photo"
+      ],
+      "confidence": "high",
+      "verified": false,
+      "sourceUrl": "https://www.xiaohongshu.com/explore/6a12ff6d0000000007020cd1?xsec_token=ABMFo5BAXwlLVZe_Lq1l9OTK-aEwFTCEjkPX8CHtyTTpo=",
+      "summary": "#这人有点好展[话题]# 城市漫游的时候一定不要错过这里🤣 整个展区特别适合拍生活感照片，很容易出片～ 📍定位：杭州银泰in77C1区4楼这人有点好展 话题：#这人有点好展[话题]##湖滨银泰[话题]##杭州新站推荐[话题]# #周末出行[话题]# #趣味打卡[话题]#",
+      "metrics": {
+        "likes": 7054,
+        "collects": 502,
+        "comments": 666,
+        "shares": 1696
+      },
+      "imageCount": 9,
+      "wikiSource": "wiki/sources/xiaohongshu/6a12ff6d0000000007020cd1.md"
+    }
+  ]
+}

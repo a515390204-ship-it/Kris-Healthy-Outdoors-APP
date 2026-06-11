@@ -1,0 +1,16 @@
+{
+  "importedAt": "2026-06-10T14:35:10Z",
+  "sourceQuery": "海口美食 海口老爸茶 海口清补凉 海口本地人",
+  "city": "海口",
+  "topic": "海口美食：老爸茶、清补凉、本地觅食",
+  "entryCount": 6,
+  "sources": {
+    "candidate": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-haikou-food-reviewed-20260610.json",
+    "raw": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\raw\\xhs-raw-fab83223-20260610-222805.json"
+  },
+  "targets": [
+    "raw/sources/xiaohongshu/2026-06-10-haikou-food-laobacha/xhs-haikou-food-reviewed-20260610.json",
+    "raw/sources/xiaohongshu/2026-06-10-haikou-food-laobacha/xhs-raw-fab83223-20260610-222805.json"
+  ],
+  "status": "ingested_as_unverified_xhs_evidence"
+}

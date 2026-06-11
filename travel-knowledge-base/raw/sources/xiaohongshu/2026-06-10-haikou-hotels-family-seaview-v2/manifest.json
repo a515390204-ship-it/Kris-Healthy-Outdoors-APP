@@ -1,0 +1,16 @@
+{
+  "importedAt": "2026-06-10T14:35:58Z",
+  "sourceQuery": "海口酒店推荐 海口海景酒店 海口亲子酒店 海口民宿",
+  "city": "海口",
+  "topic": "海口住宿 family-seaview：海景酒店、亲子、度假",
+  "entryCount": 4,
+  "sources": {
+    "candidate": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\xhs-haikou-hotels-2-reviewed-20260610.json",
+    "raw": "C:\\Users\\Administrator\\Documents\\New project\\xhs-data\\raw\\xhs-raw-1d90514b-20260610-222857.json"
+  },
+  "targets": [
+    "raw/sources/xiaohongshu/2026-06-10-haikou-hotels-family-seaview-v2/xhs-haikou-hotels-2-reviewed-20260610.json",
+    "raw/sources/xiaohongshu/2026-06-10-haikou-hotels-family-seaview-v2/xhs-raw-1d90514b-20260610-222857.json"
+  ],
+  "status": "ingested_as_unverified_xhs_evidence"
+}
