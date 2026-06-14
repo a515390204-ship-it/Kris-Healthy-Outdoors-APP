@@ -1,41 +1,42 @@
 # Travel Knowledge Base
 
-This is an LLM Wiki-style knowledge base for the travel planning mini program.
+This is a source-preserving, evidence-backed travel knowledge base for the travel planning mini program.
 
-Location: `D:\Travel Knowledge Base`
+The active schema is:
 
-## What Is Inside
+- `90_System/_schema.md`
+- `90_System/_architecture.md`
+- `90_System/_constraints.md`
+- `90_System/_taxonomy.md`
 
-- `purpose.md`: product goal and knowledge-base mission.
-- `schema.md`: page types, confidence rules, and ingest workflow.
-- `AGENTS.md`: maintenance instructions for future LLM agents.
-- `raw/sources/`: immutable source data such as Xiaohongshu crawls.
-- `wiki/`: LLM-maintained pages, including city pages, source summaries, concepts, and synthesis.
-- `datasets/`: structured manifests for app-side ingestion.
-- `tools/`: maintenance scripts.
+## Core Logic
 
-## Current Seed Data
-
-The first seed import contains 9 Xiaohongshu candidate travel notes for Hong Kong and Macau.
-
-Start here:
-
-- `wiki/index.md`
-- `wiki/overview.md`
-- `wiki/entities/cities/hong-kong.md`
-- `wiki/entities/cities/macau.md`
-- `wiki/synthesis/xhs-hong-kong-macau-initial-findings.md`
-
-## Import Future Xiaohongshu Candidate Data
-
-After running the mini program crawler and producing `xhs-import-candidates*.json`, copy it into the knowledge base with:
-
-```bash
-python "D:\Travel Knowledge Base\tools\import_xhs_candidates.py" "C:\path\to\xhs-import-candidates.json" --batch 2026-05-27-city-topic
+```text
+RawSource -> Evidence -> Claim -> Entity -> Card -> View / Dataset
 ```
 
-That script stores the raw JSON under `raw/sources/xiaohongshu/` and appends an operation log entry.
+The knowledge base keeps raw information, extracted evidence, structured claims, stable entities, and user-facing cards separate.
+
+## New Directory Layers
+
+- `_inbox/`: raw imports, parsed text, and quick notes.
+- `10_Mutable/`: evidence, claims, drafts, conflicts, and review queues.
+- `20_Immutable/`: stable knowledge cards for places, areas, routes, activities, trip plans, and topics.
+- `30_Views/`: city, theme, trip, and status views.
+- `90_System/`: schema, architecture, taxonomy, constraints, and templates.
+- `90_Scripts/`: future ingestion, normalization, validation, update, and export scripts.
+
+## Legacy Compatibility
+
+The older LLM Wiki structure remains during migration:
+
+- `raw/sources/`: immutable source data such as Xiaohongshu crawls.
+- `wiki/`: existing city pages, source summaries, concepts, and synthesis.
+- `datasets/`: structured manifests for app-side ingestion.
+- `tools/`: existing maintenance scripts.
+
+Do not delete legacy content until it has been migrated and source references are preserved.
 
 ## Important Rule
 
-Xiaohongshu data is user-experience evidence. Do not treat it as verified truth until official or stable sources confirm transport, tickets, opening hours, hotel status, and safety details.
+Xiaohongshu data is user-experience evidence. Do not treat it as verified truth until official or stable sources confirm transport, tickets, opening hours, hotel status, closures, safety details, or other high-risk practical facts.
