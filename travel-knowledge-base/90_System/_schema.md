@@ -1,7 +1,8 @@
 # Travel Knowledge Base Cognitive Constitution
 
-Version: v2.0
-Scope: `travel-knowledge-base/`
+Version: v2.1  
+Scope: `travel-knowledge-base/`  
+Status: active schema
 
 This file is the highest-level schema for the travel knowledge base. It upgrades the old LLM Wiki structure into a source-preserving, evidence-backed, location-centered knowledge system.
 
@@ -12,18 +13,19 @@ This file is the highest-level schema for the travel knowledge base. It upgrades
 The knowledge base must never collapse raw material, extracted evidence, structured claims, and human-facing knowledge cards into one object.
 
 ```text
-RawSource -> Evidence -> Claim -> Entity -> Card
+RawSource -> Evidence -> Claim -> Entity -> Card -> View / Dataset
 ```
 
 - `RawSource`: where the information came from.
 - `Evidence`: the smallest source-backed fragment that can be cited.
 - `Claim`: a structured, updateable assertion extracted from evidence.
-- `Entity`: the stable thing being described, such as a place, area, route, activity, or trip plan.
+- `Entity`: the stable object being described, such as a place, area, route, activity, trip plan, or topic.
 - `Card`: the readable knowledge page generated from accepted claims, unresolved conflicts, and synthesis.
+- `View / Dataset`: navigation, planning, and app-facing output generated from cards and claims.
 
 ### 1.2 Preserve Original Material
 
-Raw files are first-order records. They must not be edited after ingestion. If a source needs correction, append a new source, claim, or erratum. Do not rewrite the original imported file.
+Raw files are first-order records. They must not be edited after ingestion. If a source needs correction, append a new source, claim, conflict, or erratum. Do not rewrite the original imported file.
 
 ### 1.3 Mark Epistemic Status Explicitly
 
@@ -100,11 +102,37 @@ travel-knowledge-base/
 └── tools/
 ```
 
-`raw/`, `wiki/`, `datasets/`, and `tools/` remain as legacy compatibility layers and should be migrated gradually.
+`raw/`, `wiki/`, `datasets`, and `tools/` remain as legacy compatibility layers and should be migrated gradually. New imports should use the v2 folders unless an existing tool still requires the legacy path.
 
-## 3. Core Entity Types
+## 3. Layer Rules
 
-### 3.1 RawSource
+### 3.1 `_inbox/`
+
+Collection layer. It may contain unprocessed material, extracted text, and quick notes. Material here is not yet trusted knowledge.
+
+### 3.2 `10_Mutable/`
+
+Working layer. It may change frequently. Evidence, claims, drafts, conflicts, and review queues live here.
+
+### 3.3 `20_Immutable/`
+
+Stable knowledge layer. Immutable means source-backed and controlled, not frozen forever. Cards can receive field-level updates when new claims pass validation, but old evidence and claims must remain traceable.
+
+### 3.4 `30_Views/`
+
+Readable and app-planning views. Views are derived from cards and claims. They are not source truth.
+
+### 3.5 `90_System/`
+
+System layer for schema, architecture, taxonomy, constraints, templates, and future prompt contracts.
+
+### 3.6 `90_Scripts/`
+
+Automation layer for ingestion, normalization, field-level card updates, validation, and exports.
+
+## 4. Core Entity Types
+
+### 4.1 RawSource
 
 ```yaml
 ---
@@ -123,14 +151,14 @@ processing_status: raw | parsed | extracted | reviewed
 ---
 ```
 
-### 3.2 Evidence
+### 4.2 Evidence
 
 ```yaml
 ---
 type: evidence
 id: EV-<UUID-SHORT>
 source_id: SRC-xxxx
-evidence_type: text | image | comment | metadata | ocr
+evidence_type: text | image | comment | metadata | ocr | manual_observation
 captured_at: 2026-06-14T10:00:00+08:00
 quote: ""
 source_locator: ""
@@ -141,7 +169,7 @@ fact_marker: "[FACT]"
 
 Evidence records prove that a source said or showed something. They do not prove that the real-world statement is true.
 
-### 3.3 Claim
+### 4.3 Claim
 
 ```yaml
 ---
@@ -161,7 +189,7 @@ modified: 2026-06-14T10:00:00+08:00
 ---
 ```
 
-### 3.4 Place
+### 4.4 Place
 
 ```yaml
 ---
@@ -200,7 +228,23 @@ Required sections:
 - Source Trail
 - Wikilinks
 
-### 3.5 Conflict
+### 4.5 Area
+
+Use for countries, provinces, cities, districts, neighborhoods, islands, scenic zones, and transport hubs.
+
+### 4.6 Route
+
+Use for map-aware sequences, inter-city movement, single-city day plans, and theme routes.
+
+### 4.7 Activity
+
+Use for travel actions such as camping, citywalk, parent-child beach day, museum day, food crawl, rainy-day route, or photo route.
+
+### 4.8 TripPlan
+
+Use for reusable itinerary plans generated from places, routes, activities, time budgets, and traveler constraints.
+
+### 4.9 Conflict
 
 ```yaml
 ---
@@ -218,11 +262,9 @@ resolved_at: ""
 ---
 ```
 
-## 4. Relation Model
+## 5. Relation Model
 
 Relations must appear in YAML and in a final `## Wikilinks` section using Obsidian/Dataview-compatible syntax.
-
-Recommended relation types:
 
 | Relation | Meaning |
 |---|---|
@@ -238,7 +280,7 @@ Recommended relation types:
 | `part_of_route` | Place is included in a route |
 | `derived_from` | Card or claim was derived from evidence/source |
 
-## 5. Ingestion Protocol
+## 6. Ingestion Protocol
 
 1. Store raw imported material under `_inbox/Raw_Files/` or retain existing legacy raw material under `raw/sources/` as read-only.
 2. Extract text/OCR into `_inbox/Parsed_Text/` when needed.
@@ -251,7 +293,7 @@ Recommended relation types:
 9. Append operation log entries.
 10. Export app-facing views or datasets only after evidence references are preserved.
 
-## 6. Field Update Rules
+## 7. Field Update Rules
 
 - Address and geo: prefer map/official sources; Xiaohongshu can supply hints.
 - Opening hours, tickets, reservation, safety, closures: require official or stable confirmation before `verified`.
@@ -260,7 +302,7 @@ Recommended relation types:
 - Suitability: may be inference, but cite supporting evidence.
 - Route sequence: must distinguish source route from recommended route.
 
-## 7. Freshness Defaults
+## 8. Freshness Defaults
 
 | Field | Default review window |
 |---|---:|
@@ -272,7 +314,7 @@ Recommended relation types:
 | Seasonal scenery | Season-bound |
 | Subjective experience | Does not expire automatically, but freshness decreases |
 
-## 8. Promotion Gate
+## 9. Promotion Gate
 
 A card may enter `20_Immutable/Knowledge_Base/` when all conditions pass:
 
@@ -283,7 +325,7 @@ A card may enter `20_Immutable/Knowledge_Base/` when all conditions pass:
 - Every important fact field points to evidence or claim IDs.
 - `maturity` is at least `sapling`, unless explicitly accepted as a seed card for navigation.
 
-## 9. Legacy Migration Rule
+## 10. Legacy Migration Rule
 
 Existing `wiki/entities`, `wiki/sources`, `wiki/synthesis`, and `datasets` are not deleted. They should be migrated gradually:
 
@@ -294,7 +336,7 @@ Existing `wiki/entities`, `wiki/sources`, `wiki/synthesis`, and `datasets` are n
 - `wiki/synthesis/*` -> `30_Views/` or `20_Immutable/Knowledge_Base/Topics/`
 - `datasets/*` -> generated outputs from accepted cards and claims
 
-## 10. Operation Log
+## 11. Operation Log
 
 Important changes must append a log entry. Logs are append-only.
 
