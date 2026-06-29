@@ -12,11 +12,8 @@ Kris-Healthy-Outdoors-APP/
 ├── crawlers/                # source crawlers such as Xiaohongshu/map/official sites
 ├── workers/                 # ingestion, extraction, claim generation, conflict detection
 ├── packages/                # shared schemas, types, and utilities
-├── docs/                    # engineering and architecture documents
-├── assets/                  # shared static assets
-├── data/                    # runtime/demo data
-├── lib/                     # legacy shared browser modules
-└── templates/               # legacy templates
+├── docs/                    # active engineering and architecture documents
+└── legacy-root-archive/     # archived legacy root-level prototype files
 ```
 
 ## Boundary Rule
@@ -33,8 +30,23 @@ Runtime code should live outside the knowledge base:
 
 Backend services may read from and write to `travel-knowledge-base/`, but they should not be embedded inside it as long-running services.
 
+## Legacy Archive
+
+Legacy root-level files and folders should be collected under `legacy-root-archive/`.
+
+The archive target includes:
+
+- static prototype pages and their CSS/JS
+- legacy local API/start scripts
+- legacy browser modules and demo data
+- legacy templates
+- legacy docs
+- large static assets such as old outdoor images
+
+See `legacy-root-archive/README.md` for the exact move manifest.
+
 ## Current Migration Status
 
-The root directory still contains legacy static demo files such as `index.html`, `outdoor.html`, `kb.html`, `xhs-admin.html`, and related CSS/JS files. These should be migrated into `apps/web/legacy-static/` after deployment paths are confirmed.
+The clean target root is now defined. Some old root files may remain until they can be moved with native `git mv`, because large binary assets must not be recreated through text-only APIs.
 
-Do not delete root deployment files until GitHub Pages/local-start behavior has been verified.
+Do not delete legacy files until their content has been moved into `legacy-root-archive/` and verified.
